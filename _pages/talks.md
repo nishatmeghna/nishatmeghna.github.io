@@ -20,7 +20,7 @@ permalink: /talks/
 ## Talks and webinars
 
 {% for talk in site.data.invited_talks %}
-{{ forloop.index }} {{ talk.name }} {% if talk.link %} (<a href="{{ talk.link }}" target="_blank">link</a>){% endif %}.
+{{ forloop.index }} {{ talk.name }}{% if talk.link %} (<a href="{{ talk.link }}" target="_blank">link</a>){% endif %}.
 {% endfor %}
 {% endif %}
 
