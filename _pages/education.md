@@ -77,6 +77,6 @@ permalink: /education/
 ### Lectures
 
 {% for lecture in site.data.lectures %}
-{{ forloop.index }} {{ lecture.name }}.
+{{ forloop.index }} {{ lecture.name }}
 {% endfor %}
 {% endif %}
