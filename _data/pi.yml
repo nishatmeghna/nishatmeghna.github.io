@@ -1,21 +1,19 @@
-- name: Dr. Spencer H. Bryngelson
-  photo: Spencer.jpg
-  info: Senior Postdoctoral Scholar
-  email: spencer@caltech.edu
-  github: https://github.com/sbryngelson
-  researchgate: https://www.researchgate.net/profile/Spencer_Bryngelson
-  scholar: https://scholar.google.com/citations?user=dM-nHdMAAAAJ&hl=en
-  cv: https://github.com/sbryngelson/cv/blob/master/cv_bryngelson.pdf 
-  number_educ: 6
-  education1: (2018- ) Senior Postdoc, Caltech (with <a href="https://colonius.caltech.edu" target="_blank">Tim Colonius</a>)
-  education2: (2019) Visiting Researcher, MIT (with <a href="https://colonius.caltech.edu" target="_blank">Themis Sapsis</a>)
-  education3: (2017-8) Postdoc, Center for Exascale Simulation of Plasma-Coupled Combustion (XPACC, with <a href="https://viterbi.usc.edu/directory/faculty/Pantano-Rubino/Carlos" target="_blank">Carlos Pantano</a>, <a href="http://acoustics.ae.illinois.edu/" target="_blank">Dan Bodony</a>, <a href="http://jbfreund.mechse.illinois.edu/" target="_blank">Jon Freund</a>)
-  education4: (2017) Ph.D. Theoretical and Applied Mechanics, University of Illinois at Urbana-Champaign (with <a href="https://aerospace.illinois.edu/directory/profile/jbfreund" target="_blank">Jon Freund</a>)
-  education5: (2015) M.S. Theoretical and Applied Mechanics, University of Illinois at Urbana-Champaign (with certificate in Computational Science & Engineering)
-  education6: (2013) B.S. and B.S. University of Michigan-Dearborn (Mechanical Engineering and Engineering Mathematics)
-  education1short: (2018- ) Senior Postdoc, Caltech 
-  education2short: (2019) Visiting Researcher, MIT 
-  education3short: (2017-8) Postdoc, XPACC 
-  education4short: (2017) Ph.D. TAM, UIUC 
-  education5short: (2015) M.S. TAM/CSE, UIUC
-  education6short: (2013) B.S.+B.S, Michigan
+- name: Dr. Pavlo Bazilinskyy
+  photo: bazilinskyy.png
+  info: Postdoctoral researcher at TU Delft
+  email: p.bazilinskyy@tudelflt.nl
+  github: https://github.com/bazilinskyy
+  researchgate: https://www.researchgate.net/profile/Pavlo_Bazilinskyy
+  scholar: https://scholar.google.com/citations?user=_1df9yAAAAAJ
+  cv: https://github.com/bazilinskyy/bazilinskyy.github.io/blob/master/cv/CV-PavloBazilinskyy.pdf
+  number_educ: 5
+  education1: (2018–now) Postdoc in VIDI project of <a href="https://sites.google.com/site/jcfdewinter" target="_blank">Dr. Joost de Winter</a> at TU Delft 🇳🇱
+  education2: (2018–2021) Director of data science research at <a href="https://sd-insights.eu" target="_blank">SD-Insights</a> 🇳🇱
+  education3: (2014–2018) <b>PhD in Human Factors of Automated Driving</b> at TU Delft 🇳🇱
+  education4: (2012–2014) <b>Double MSc in Computer Science</b> at University of St Andrews 🏴󠁧󠁢󠁳󠁣󠁴󠁿 and Maynooth University 🇮🇪
+  education5: (2009–2012) <b>BEng in Information Technology</b> at Mikkeli University of Applied Sciences 🇫🇮
+  education1short: (2018-) Postdoc, TU Delft 
+  education2short: (2018-21) Data scientist, SDi
+  education3short: (2018) PhD, TU Delft
+  education4short: (2014) MSc, St Andrews/Maynooth
+  education5short: (2012) BEng, Mikkeli AMK

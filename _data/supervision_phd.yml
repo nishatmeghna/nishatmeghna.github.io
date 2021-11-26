@@ -1,0 +1,15 @@
+- name: Vishal Onkhar
+  name_url: https://www.tudelft.nl/staff/v.onkhar
+  project: Communication with vulenrable road users by means of eye contact
+  # project_url:
+  year: 2020
+  status: inprogress
+  comment: co-supervision
+
+- name: Tom Driessen
+  name_url: https://www.tudelft.nl/staff/t.driessen
+  project: Data-driven communication between automated vehicles and vulnerable road users
+  project_url: https://repository.tudelft.nl/islandora/object/uuid%3Aea30f1c8-70d6-493c-948b-3b6e0c398c3a
+  year: 2019
+  status: inprogress
+  comment: co-supervision

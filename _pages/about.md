@@ -67,13 +67,9 @@ permalink: /about/
 
 {% endfor %}
 
-## Sketch
+## Short biography
 
-Dr. Spencer Bryngelson develops computational tools to improve human health outcomes. 
-He is currently a Senior Postdoctoral Scholar at the California Institute of Technology, working with Professor Tim Colonius. 
-He also works with Professor Themis Sapsis at the Massachusetts Institute of Technology. 
-Previously, he was a Postdoctoral Research Associate at the Center for Exascale Simulation of Plasma-Coupled Combustion. 
-He holds a Ph.D. in Theoretical and Applied Mechanics from the University of Illinois at Urbana–Champaign, where he worked with Professor Jonathan Freund.
+Pavlo Bazilinskyy is a postdoctoral researcher at TU Delft. He finished his PhD at TU Delft in auditory feedback for automated driving as a Marie Curie Fellow. He was a head of data research at SD-Insights. Pavlo is involved with startups and was a chair of the Bridging Science and Business working group of MCAA and a director of the Research and Innovation unit of EMA.
 
 {% if site.data.awards %}
 ## Awards
@@ -93,18 +89,10 @@ He holds a Ph.D. in Theoretical and Applied Mechanics from the University of Ill
 
 {% endif %}
 
-## Collaborators
+## Collaborations
 
-* <a href="http://acoustics.ae.illinois.edu/" target="_blank">Professor Daniel Bodony (Aerospace, University of Illinois)</a>
-* <a href="http://colonius.caltech.edu/" target="_blank">Professor Tim Colonius (Computational Flow Physics, Caltech)</a>
-* <a href="http://ewoldt.mechanical.illinois.edu/" target="_blank">Professor Randy Ewoldt (MechSE, University of Illinois)</a>
-* <a href="https://www.cbe.iastate.edu/the-department/facultystaff/profile/rofox/" target="_blank">Professor Rodney Fox (Iowa State University)</a>
-* <a href="http://jbfreund.mechse.illinois.edu/" target="_blank">Professor Jonathan Freund (MechSE + Aero, UIUC)</a>
-* <a href="http://www.gueniat.fr/" target="_blank">Dr. Florimond Guéniat (Birmingham City University, UK)</a>
-* <a href="https://sites.google.com/view/kazukimaeda/home" target="_blank">Dr. Kazuki Maeda (Center for Turbulence Research, Stanford)</a>
-* <a href="http://lukeo.cs.illinois.edu/" target="_blank">Professor Luke Olson (Computer Science and CSE, University of Illinois)</a>
-* <a href="https://viterbi.usc.edu/directory/faculty/Pantano-Rubino/Carlos" target="_blank">Professor Carlos Pantano (University of Southern California)</a>
-* <a href="http://www.its.caltech.edu/~mrdz/index.html" target="_blank">Dr. Mauro Rodriguez (MechE, Caltech)</a>
-* <a href="http://sandlab.mit.edu/" target="_blank">Professor Themis Sapsis (Sand Lab, MIT)</a>
-* <a href="https://kevinschmidmayer.github.io/overview/" target="_blank">Dr. Kevin Schmidmayer (Sopra Steria, France)</a>
+{% for collaborator in site.data.collaborators %}
+* {{ collaborator.name }}
+{% endfor %}
+
 
