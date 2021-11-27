@@ -20,7 +20,7 @@ permalink: /talks/
 ## Talks and webinars
 
 {% for talk in site.data.invited_talks %}
-{{ forloop.index }} {{ talk.name }}{% if talk.link %} (<a href="{{ talk.link }}" target="_blank">link</a>){% endif %}.
+{{ forloop.index }} {% if talk.link %}<a href="{{ talk.link }}" target="_blank">{% endif %}<strong>{{ talk.title }}</strong>{% if talk.link %}</a>{% endif %} ({{ talk.year }}){% if talk.subtitle %}<br>{{ talk.subtitle }}{% endif %}.
 {% endfor %}
 {% endif %}
 
@@ -28,8 +28,7 @@ permalink: /talks/
 ## Chairing sessions
 
 {% for session in site.data.chairing %}
-{{ forloop.index }} <strong>{{ session.title }}</strong>.
-<br/>{{ session.conf }} ({{ session.year }}).
+{{ forloop.index }} {% if session.link %}<a href="{{ session.link }}" target="_blank">{% endif %}<strong>{{ session.title }}</strong>{% if session.link %}</a>{% endif %} ({{ session.year }}){% if session.subtitle %} {{ session.subtitle }}{% endif %}<br/>{{ session.conf }}.
 {% endfor %}
 {% endif %}
 

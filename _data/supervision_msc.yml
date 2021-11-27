@@ -7,14 +7,14 @@
 
 - name: Lokkeshver Kumaaravelu
   name_url: https://www.linkedin.com/in/lokkeshtk
-  project: Pedestrian warning system
+  project: Pedestrian warning system using computer vision and eye tracking
   project_url:
   year: 2021
   status: inprogress
 
 - name: Lokin Prasad
   name_url: https://www.linkedin.com/in/lokin-prasad
-  project: Identifying lane changes automatically using the gps sensor of portable devices
+  project: Identifying lane changes automatically using the GPS sensor of portable devices
   project_url:
   year: 2021
   status: inprogress
@@ -35,7 +35,7 @@
 
 - name: Daniel van den Haak
   name_url: https://www.linkedin.com/in/danielvdhaak
-  project: "The identification of factors affecting drivers’ perceived risk in pedestrian-vehicle interaction: A crowdsourcing study"
+  project: "Automated lane changing using deep reinforcement learning: A user-acceptance case study"
   project_url: https://repository.tudelft.nl/islandora/object/uuid%3Ad658ac52-b3b1-48e3-9ba0-d96e1be18937
   year: 2021
   status: completed
@@ -49,7 +49,7 @@
 
 - name: Johnson Mok
   name_url: https://www.linkedin.com/in/johnson-mok
-  project: "A two-agent VR study: the effects of driver eye gaze visualisation on AV-pedestrian interaction"
+  project: "A two-agent VR study: The effects of driver eye gaze visualisation on AV-pedestrian interaction"
   project_url: https://repository.tudelft.nl/islandora/object/uuid%3A36390ae6-2a48-47e3-abc0-e117d8915978
   year: 2021
   status: completed

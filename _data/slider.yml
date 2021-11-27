@@ -1,20 +1,20 @@
-# - name: respic/Chaotic_mixing.png
-# - name: respic/adjoint_shocks.png
-# - name: respic/bucklng_viz.png
-# - name: respic/cavitation.jpg
-# - name: respic/chaos_cells_stochastic.png
-# - name: respic/droplets_in_water.jpeg
-# - name: respic/ensemble_avg.png
-# - name: respic/full_model.png
-# - name: respic/globalst.jpg
-# - name: respic/hybridmethod_1.png
-# - name: respic/laoe_19.png
-# - name: respic/microcapsules.jpg
-# - name: respic/shocks.jpg
-# - name: respic/sickle_cells.jpg
-# - name: respic/sickle_cells2.jpg
-# - name: respic/whales.jpeg
-# - name: respic/whales2.jpeg
+# - name: research/Chaotic_mixing.png
+# - name: research/adjoint_shocks.png
+# - name: research/bucklng_viz.png
+# - name: research/cavitation.jpg
+# - name: research/chaos_cells_stochastic.png
+# - name: research/droplets_in_water.jpeg
+# - name: research/ensemble_avg.png
+# - name: research/full_model.png
+# - name: research/globalst.jpg
+# - name: research/hybridmethod_1.png
+# - name: research/laoe_19.png
+# - name: research/microcapsules.jpg
+# - name: research/shocks.jpg
+# - name: research/sickle_cells.jpg
+# - name: research/sickle_cells2.jpg
+# - name: research/whales.jpeg
+# - name: research/whales2.jpeg
 - name: slider/SaphireSTM2.jpg
 - name: slider/STS.jpg
 - name: slider/cake_web.jpg

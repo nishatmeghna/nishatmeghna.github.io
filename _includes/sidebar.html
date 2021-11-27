@@ -3,7 +3,7 @@
 
 {% for member in site.data.pi %}
 <div class="row">
-  <a href="{{site.url}}{{site.baseurl}}/about"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="60%" style="block:inline; margin-left:auto; margin-right:auto;" /></a>
+  <a href="{{site.url}}{{site.baseurl}}/about"><img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo-small }}" class="img-responsive" width="80%" style="block:inline; margin-left:auto; margin-right:auto;" /></a>
   <center><h4>{{ member.name }}</h4>
 
    {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-2x"></i></a> {% endif %}
@@ -62,18 +62,18 @@
 <h4>News</h4>
 
   {% for article in site.data.news limit:4 %}
-  {{ article.date }}
+  <strong>{{ article.date }}</strong>
     <p>{{ article.headline }}</p>
   {% endfor %}
   
-  <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+  <a href="{{ site.url }}{{ site.baseurl }}/allnews.html">...see all news</a>
 
 </div>
 
 <div class="well">
 <h4>Upcoming Events</h4>
   {% for article in site.data.events limit:5 %}
-  <b>{{ article.date }}</b>
+  <strong>{{ article.date }}</strong>
     <p>{{ article.headline }}<br/>
     <i>{{ article.location }}</i></p>
   {% endfor %}
@@ -90,9 +90,9 @@
 <!--   </style> -->
 <!--  {% for funder in site.data.funders %} -->
 <!--  {% if funder.url %} --> 
-<!--   <a href="{{funder.url}}" target="_blank"><img src='/images/logopic/{{ funder.image }}' class='mycenter' style='max-height: 70px; max-width: 200px;'/></a> -->
+<!--   <a href="{{funder.url}}" target="_blank"><img src='/images/logos/{{ funder.image }}' class='mycenter' style='max-height: 70px; max-width: 200px;'/></a> -->
 <!--  {% else %} -->
-<!--   <img src='/images/logopic/{{ funder.image }}' class='mycenter' style='max-height: 70px; max-width: 200px;'/> -->
+<!--   <img src='/images/logos/{{ funder.image }}' class='mycenter' style='max-height: 70px; max-width: 200px;'/> -->
 <!--  {% endif %} --> 
 <!--  {% endfor %} -->
 <!-- </div> -->

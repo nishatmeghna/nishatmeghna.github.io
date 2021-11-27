@@ -11,7 +11,7 @@ permalink: /about/
 {% for member in site.data.pi %}
 
 <div class="row">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo-large }}" class="img-responsive" width="30%" style="float: left" />
   <h3>{{ member.name }}</h3>
   <i style="font-size:20px">{{ member.info }}</i><br>
 
