@@ -13,46 +13,46 @@
    {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %}
    {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-2x"></i></a> {% endif %}
   </center>
-  <ul style="overflow: hidden">
+  <div style="overflow: hidden; padding-left: 15px; padding-right: 0px">
   {% if member.number_educ == 1 %}
-  <li> {{ member.education1short }} </li>
+  {{ member.education1short }} </br>
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1short }} </li>
-  <li> {{ member.education2short }} </li>
+  {{ member.education1short }} </br>
+  {{ member.education2short }} </br>
   {% endif %}
 
   {% if member.number_educ == 3 %}
-  <li> {{ member.education1short }} </li>
-  <li> {{ member.education2short }} </li>
-  <li> {{ member.education3short }} </li>
+  {{ member.education1short }} </br>
+  {{ member.education2short }} </br>
+  {{ member.education3short }} </br>
   {% endif %}
 
   {% if member.number_educ == 4 %}
-  <li> {{ member.education1short }} </li>
-  <li> {{ member.education2short }} </li>
-  <li> {{ member.education3short }} </li>
-  <li> {{ member.education4short }} </li>
+  {{ member.education1short }} </br>
+  {{ member.education2short }} </br>
+  {{ member.education3short }} </br>
+  {{ member.education4short }} </br>
   {% endif %}
 
   {% if member.number_educ == 5 %}
-  <li> {{ member.education1short }} </li>
-  <li> {{ member.education2short }} </li>
-  <li> {{ member.education3short }} </li>
-  <li> {{ member.education4short }} </li>
-  <li> {{ member.education5short }} </li>
+  {{ member.education1short }}</br>
+  {{ member.education2short }}</br>
+  {{ member.education3short }}</br>
+  {{ member.education4short }}</br>
+  {{ member.education5short }}</br>
   {% endif %}
 
   {% if member.number_educ == 6 %}
-  <li> {{ member.education1short }} </li>
-  <li> {{ member.education2short }} </li>
-  <li> {{ member.education3short }} </li>
-  <li> {{ member.education4short }} </li>
-  <!-- <li> {{ member.education5short }} </li> -->
-  <li> {{ member.education6short }} </li>
+  {{ member.education1short }} </br>
+  {{ member.education2short }} </br>
+  {{ member.education3short }} </br>
+  {{ member.education4short }} </br>
+  {{ member.education5short }} </br>
+  {{ member.education6short }} </br>
   {% endif %}
-  </ul>
+  </div>
 </div>
 
 {% endfor %}
