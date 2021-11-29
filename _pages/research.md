@@ -35,6 +35,17 @@ permalink: /research/
 </div>
 
 <div class="rowl1">
+  <div class="img-responsive" style="margin-top: 15px; margin-right: 19px; float: left"><iframe src="https://www.youtube.com/embed/isjbqXs2g7k?&loop=1&autoplay=1&mute=1" style="width: 280px; height: 170px; border-radius:10px" frameborder="0" allowfullscreen></iframe></div>
+
+  <h4>Portable sensor to collect information on the state of the traffic environment</h4>
+
+  During my work at SD-Insights, I developed a portable sensor to collect information on the state of the environment called NEXTeye. It is based on Mapbox Vision SDK (https://www.mapbox.com/vision) and [NVIDIA Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit). The sensor is plug-n-play, retrieves vehicle dynamics data, and performs real-time scene segmentation and object detection. The portability of NEXTeye allows its use not only inside of a car, but also as a wearable by vulnerable road users. Multiple such sensors can be connected and synchronised.
+
+  <ul style="overflow: hidden">
+  </ul>
+</div>
+
+<div class="rowl1">
   <img src="{{ site.url }}{{ site.baseurl }}/images/research/auditory_feedback_ad.jpg" class="img-responsive" style="float: left; border-radius:10px; width: 280px; height: 170px" />
   <h4>Auditory feedback for automated driving</h4>
   
