@@ -13,12 +13,11 @@ permalink: /research/
   
   I am currently engaged in research on communication between multiple automated vehicles and multiple vulnerable road users. Most of experiments in current research features 1, maybe 2, human participants. But, think about driving around a town in real life. Traffic situations are very complicated. And being able to perform experiments with 3, 4, ..., 16 participants is essential for understanding the mechanics of communication of situation awareness/collaborative decision making/collaboration in both modern and future traffic. To enable such research, I present [an open-source simulator](https://github.com/bazilinskyy/coupled-sim) supporting a virtually unlimited number of human participants and fine-tunes for high precision data logging. It is aimed for, but not limited to, academic research.
 
-  <div class="row" style="text-align:center">
+  <div class="row" style="text-align:center; margin-bottom: 0px;">
   <iframe style="display:inline-block; border-radius: 10px; border:0px solid #FFF; width: 95%; height: 358px" src="https://www.youtube.com/embed/W2VWLYnTYrM?&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
   
   Demo of [coupled simulator](https://github.com/bazilinskyy/coupled-sim) with 3 agents in the same traffic scene.
   </div>
-
   <ul style="overflow: hidden">
   </ul>
 </div>
