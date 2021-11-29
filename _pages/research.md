@@ -8,7 +8,7 @@ permalink: /research/
 # Research
 
 <div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research/multi_user_communication.jpg" class="img-responsive" style="float: left; border-radius:10px; width: 280px; height: 170px" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/multi_user_communication.jpg" class="img-responsive" style="float: left; border-radius:10px; width: 280px; height: 158px" />
   <h4>Multi-user communication in traffic</h4>
   
   I am currently engaged in research on communication between multiple automated vehicles and multiple vulnerable road users. Most of experiments in current research features 1, maybe 2, human participants. But, think about driving around a town in real life. Traffic situations are very complicated. And being able to perform experiments with 3, 4, ..., 16 participants is essential for understanding the mechanics of communication of situation awareness/collaborative decision making/collaboration in both modern and future traffic. To enable such research, I present [an open-source simulator](https://github.com/bazilinskyy/coupled-sim) supporting a virtually unlimited number of human participants and fine-tunes for high precision data logging. It is aimed for, but not limited to, academic research.
@@ -23,7 +23,7 @@ permalink: /research/
 </div>
 
 <div class="rowl1">
-  <div class="img-responsive" style="margin-top: 15px; margin-right: 19px; float: left"><iframe src="https://www.youtube.com/embed/ZroKe9dKQvs?&loop=1&autoplay=1&mute=1" style="width: 280px; height: 170px; border-radius:10px" frameborder="0" allowfullscreen></iframe></div>
+  <div class="img-responsive" style="margin-top: 15px; margin-right: 19px; float: left"><iframe src="https://www.youtube.com/embed/ZroKe9dKQvs?&loop=1&autoplay=1&mute=1" style="width: 280px; height: 158px; border-radius:10px" frameborder="0" allowfullscreen></iframe></div>
 
   <h4>Crowdsourced Human Factors experiments</h4>
   
@@ -34,7 +34,7 @@ permalink: /research/
 </div>
 
 <div class="rowl1">
-  <div class="img-responsive" style="margin-top: 15px; margin-right: 19px; float: left"><iframe src="https://www.youtube.com/embed/isjbqXs2g7k?&loop=1&autoplay=1&mute=1" style="width: 280px; height: 170px; border-radius:10px" frameborder="0" allowfullscreen></iframe></div>
+  <div class="img-responsive" style="margin-top: 15px; margin-right: 19px; float: left"><iframe src="https://www.youtube.com/embed/isjbqXs2g7k?&loop=1&autoplay=1&mute=1" style="width: 280px; height: 158px; border-radius:10px" frameborder="0" allowfullscreen></iframe></div>
 
   <h4>Portable sensor to collect information on the state of the traffic environment</h4>
 
@@ -45,7 +45,7 @@ permalink: /research/
 </div>
 
 <div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research/auditory_feedback_ad.jpg" class="img-responsive" style="float: left; border-radius:10px; width: 280px; height: 170px" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/auditory_feedback_ad.jpg" class="img-responsive" style="float: left; border-radius:10px; width: 280px; height: 158px" />
   <h4>Auditory feedback for automated driving</h4>
   
   My intrinsic motivation to do a PhD stemmed from the fact that automated vehicles have the potential to prevent virtually all road fatalities. To achieve that, automated vehicles must collaborate with humans inside and outside the vehicle. During [my PhD](/papers/bazilinskyy2018auditoryinterface.pdf) I focused on auditory feedback for automated driving. With on-road and driving simulator studies, I showed that multimodal feedback that takes the urgency of the traffic situation into account could support AV-driver collaboration effectively.
