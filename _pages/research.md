@@ -16,7 +16,7 @@ permalink: /research/
   <div class="row" style="text-align:center; margin-bottom: 0px;">
   <iframe style="display:inline-block; border-radius: 10px; border:0px solid #FFF; width: 95%; height: 352px" src="https://www.youtube.com/embed/W2VWLYnTYrM?&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
   
-  Demo of [coupled simulator](https://github.com/bazilinskyy/coupled-sim) with 3 agents in the same traffic scene.
+  Demo of [coupled simulator](https://github.com/bazilinskyy/coupled-sim) with 3 agents in the same traffic scene. One agents is wearing a motion suit and one a head-mounted display.
   </div>
   <ul style="overflow: hidden">
   </ul>
