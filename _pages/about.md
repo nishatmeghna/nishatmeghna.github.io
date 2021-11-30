@@ -11,7 +11,7 @@ permalink: /about/
 {% for member in site.data.pi %}
 
 <div class="row">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo-large }}" class="img-responsive" width="30%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo-large }}" class="img-responsive avatar-about" />
   <h3>{{ member.name }}</h3>
   <i style="font-size:20px">{{ member.info }}</i><br>
 
@@ -69,7 +69,9 @@ permalink: /about/
 
 ## Short biography
 
-Pavlo Bazilinskyy is a postdoctoral researcher at TU Delft. He finished his PhD at TU Delft in auditory feedback for automated driving as a Marie Curie Fellow. He was a head of data research at SD-Insights. Pavlo is involved with startups and was a chair of the Bridging Science and Business working group of MCAA and a director of the Research and Innovation unit of EMA.
+<div class="short-bio">
+  Pavlo Bazilinskyy is a postdoctoral researcher at TU Delft. He finished his PhD at TU Delft in auditory feedback for automated driving as a Marie Curie Fellow. He was a head of data research at SD-Insights. Pavlo is involved with startups and was a chair of the Bridging Science and Business working group of MCAA and a director of the Research and Innovation unit of EMA.
+</div>
 
 {% if site.data.awards %}
 ## Awards
