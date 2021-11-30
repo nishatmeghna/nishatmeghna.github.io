@@ -12,19 +12,19 @@
   year: 2021
   status: inprogress
 
-- name: Lokin Prasad
-  name_url: https://www.linkedin.com/in/lokin-prasad
-  project: Identifying lane changes automatically using the GPS sensor of portable devices
-  project_url:
-  year: 2021
-  status: inprogress
-
 - name: Noureddine Begga
   name_url: https://www.researchgate.net/profile/Noureddine-Begga
   project: Looking behaviour of pedestrians
   project_url:
   year: 2021
   status: inprogress
+
+- name: Lokin Prasad
+  name_url: https://www.linkedin.com/in/lokin-prasad
+  project: Identifying lane changes automatically using the GPS sensor of portable devices
+  project_url:
+  year: 2021
+  status: completed
 
 - name: Bram Kooijman
   name_url: https://www.linkedin.com/in/bram-kooijman-356527119
