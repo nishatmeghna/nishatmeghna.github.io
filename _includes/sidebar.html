@@ -58,8 +58,8 @@
 {% endfor %}
 </div>
 
-<div class="well">
-<h4>News</h4>
+<!--<div class="well">
+ <h4>News</h4>
 
   {% for article in site.data.news limit:4 %}
   <strong>{{ article.date }}</strong>
@@ -68,7 +68,9 @@
   
   <a href="{{ site.url }}{{ site.baseurl }}/allnews.html">...see all news</a>
 
-</div>
+</div> -->
+
+<a class="twitter-timeline" data-width="280" data-height="400" data-theme="dark" href="https://twitter.com/bazilinskyy?ref_src=twsrctfw">Tweets by bazilinskyy</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="well">
 <h4>Upcoming Events</h4>
@@ -78,22 +80,4 @@
     <i>{{ article.location }}</i></p>
   {% endfor %}
 </div>
-
-<!-- <div class="well"> -->
-<!-- <h4>Funding</h4> -->
-<!--   <style> -->
-<!--    .mycenter { -->
-<!--       display: block; -->
-<!--       margin-left: auto; -->
-<!--       margin-right: auto; -->
-<!--    } -->
-<!--   </style> -->
-<!--  {% for funder in site.data.funders %} -->
-<!--  {% if funder.url %} --> 
-<!--   <a href="{{funder.url}}" target="_blank"><img src='/images/logos/{{ funder.image }}' class='mycenter' style='max-height: 70px; max-width: 200px;'/></a> -->
-<!--  {% else %} -->
-<!--   <img src='/images/logos/{{ funder.image }}' class='mycenter' style='max-height: 70px; max-width: 200px;'/> -->
-<!--  {% endif %} --> 
-<!--  {% endfor %} -->
-<!-- </div> -->
 
