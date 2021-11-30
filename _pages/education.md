@@ -7,10 +7,10 @@ permalink: /education/
 
 # Education
 
-## Supervision
 
 {% if site.data.supervision_msc %}
-### MSc final projects
+## Supervision of MSc final projects
+<div class="rowl1" style="padding-top: 10px;">
 
 {% for student in site.data.supervision_msc %}
   {% assign pdffile = false %}
@@ -27,10 +27,12 @@ permalink: /education/
 <i>{{ student.project }}</i>{% if pdffile %} (<a href="{{ pdffile }}" target="_blank">link</a>){% endif %}.
 
 {% endfor %}
+</div>
 {% endif %}
 
 {% if site.data.supervision_internship %}
-### Internships
+## Supervision of internships
+<div class="rowl1" style="padding-top: 10px;">
 
 {% for student in site.data.supervision_internship %}
 
@@ -39,10 +41,12 @@ permalink: /education/
 <i>{{ student.project }}</i>{% if student.project_url %} (<a href="{{ student.project_url }}" target="_blank">link</a>){% endif %}.
 
 {% endfor %}
+</div>
 {% endif %}
 
 {% if site.data.supervision_phd %}
-### PhD students
+## Supervision of PhD students
+<div class="rowl1" style="padding-top: 10px;">
 
 {% for student in site.data.supervision_phd %}
 
@@ -51,10 +55,12 @@ permalink: /education/
 <i>{{ student.project }}</i>{% if student.project_url %} (<a href="{{ student.project_url }}" target="_blank">link</a>){% endif %}.
 
 {% endfor %}
+</div>
 {% endif %}
 
 {% if site.data.supervision_bsc %}
-### BSc final project groups
+## Supervision of BSc final project groups
+<div class="rowl1" style="padding-top: 10px;">
 
 {% for student in site.data.supervision_bsc %}
   {% assign pdffile = false %}
@@ -71,12 +77,16 @@ permalink: /education/
 <i>{{ student.project }}</i>{% if pdffile %} (<a href="{{ pdffile }}" target="_blank">link</a>){% endif %}.
 
 {% endfor %}
+</div>
 {% endif %}
 
 {% if site.data.lectures %}
-### Lectures
+## Lectures
+<div class="rowl1" style="padding-top: 10px;">
 
 {% for lecture in site.data.lectures %}
 {{ forloop.index }} {{ lecture.name }}
+
 {% endfor %}
+</div>
 {% endif %}
