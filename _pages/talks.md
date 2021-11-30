@@ -36,4 +36,3 @@ permalink: /talks/
 {% endfor %}
 </div>
 {% endif %}
-
