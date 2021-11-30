@@ -42,11 +42,11 @@ permalink: /publications/
     {% endfor %}
   {% endif %}
 
-  <div class="well-sm">
+  <div class="well-sm publication-entry">
   <ul class="flex-container">
   <li class="flex-item1">
     {% if publi.image %}
-     <img src="{{ site.url }}{{ site.baseurl }}/images/publications/{{ publi.image }}" class="img-responsive" width="90%" style="float: left" />
+     <img src="{{ site.url }}{{ site.baseurl }}/images/publications/{{ publi.image }}" class="img-responsive"/>
     {% endif %}
   </li>
   <li class="flex-item2">
@@ -124,11 +124,11 @@ permalink: /publications/
 {% endfor %}
 {% endif %}
 
-<div class="well-sm">
+<div class="well-sm publication-entry">
 <ul class="flex-container">
 <li class="flex-item1">
   {% if publi.image %}
-   <img src="{{ site.url }}{{ site.baseurl }}/images/publications/{{ publi.image }}" class="img-responsive" width="90%" style="float: left" />
+     <img src="{{ site.url }}{{ site.baseurl }}/images/publications/{{ publi.image }}" class="img-responsive"/>
   {% endif %}
 </li>
 <li class="flex-item2">

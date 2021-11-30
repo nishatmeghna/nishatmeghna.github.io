@@ -38,7 +38,7 @@ permalink: /research/
 
   <h4>Portable sensor to collect information on the state of the traffic environment</h4>
 
-  During my work at SD-Insights, I developed a portable sensor to collect information on the state of the environment called NEXTeye. It is based on Mapbox Vision SDK (https://www.mapbox.com/vision) and [NVIDIA Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit). The sensor is plug-n-play, retrieves vehicle dynamics data, and performs real-time scene segmentation and object detection. The portability of NEXTeye allows its use not only inside of a car, but also as a wearable by vulnerable road users. Multiple such sensors can be connected and synchronised.
+  During my work at SD-Insights, I developed a portable sensor to collect information on the state of the environment called NEXTeye. It is based on [Mapbox Vision SDK](https://www.mapbox.com/vision) and [NVIDIA Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit). The sensor is plug-n-play, retrieves vehicle dynamics data, and performs real-time scene segmentation and object detection. The portability of NEXTeye allows its use not only inside of a car, but also as a wearable by vulnerable road users. Multiple such sensors can be connected and synchronised.
 
   <ul style="overflow: hidden">
   </ul>
