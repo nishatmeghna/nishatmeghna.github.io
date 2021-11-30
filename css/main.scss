@@ -30,14 +30,8 @@ img { margin-bottom: 24px;
 
 body {
 	padding-top: 70px;
+  color: #CCD6DD;
 }
-
-figcaption {
-    text-align: right;
-    margin-top: -20px;
-    margin-bottom: 20px;
-}
-
 
 
 /* Top navigation bar */
@@ -121,8 +115,59 @@ firstp {
 
 #gridid .rowl1 {
   margin-right: 5px;
+  border-radius: 5px;
 }
 
 #gridid .well-sm {
   margin-right: 5px;
+}
+
+/* Custom style inspired by embedded twitter feed */
+
+a {
+    color: #2b7bb9;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    color: #F5F8FA;
+    font-weight: 300;
+}
+
+h4 {
+  font-size: 21px;
+  line-height: 24px;
+}
+
+.well {
+  padding: 10px;
+}
+
+.well-sm {
+    border-radius: 5px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #F5F8FA;
+}
+
+.navbar-default .navbar-brand {
+    color: #F5F8FA;
+}
+
+a:hover {
+    color: #3b94d9;
+    text-decoration: none;
+    outline: 0;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #3b94d9;
+    text-decoration: none;
+    outline: 0;
+}
+
+figcaption {
+    text-align: right;
+    margin-top: -20px;
+    margin-bottom: 20px;
 }
