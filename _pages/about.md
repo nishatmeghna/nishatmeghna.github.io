@@ -75,7 +75,7 @@ Pavlo Bazilinskyy is a postdoctoral researcher at TU Delft. He finished his PhD 
 ## Awards
 
 {% for award in site.data.awards %}
-* {{ award.name }}
+* {% if award.name_url %}<a href="{{ award.name_url }}" target="_blank">{% endif %}<strong>{{ award.name }}</strong>{% if award.name_url %}</a>{% endif %} {% if award.organisation %} from {% if award.organisation_url %}<a href="{{ award.organisation_url }}" target="_blank">{% endif %} {{ award.organisation }}{% if award.organisation_url %}</a>{% endif %}{% endif %}{% if award.subtitle %}: {{ award.subtitle }}{% endif %} ({{ award.year }}).
 {% endfor %}
 
 {% endif %}
@@ -84,7 +84,7 @@ Pavlo Bazilinskyy is a postdoctoral researcher at TU Delft. He finished his PhD 
 ## Grants
 
 {% for grant in site.data.grants %}
-* {{ grant.name }}
+* {% if grant.name_url %}<a href="{{ grant.name_url }}" target="_blank">{% endif %}<strong>{{ grant.name }}</strong>{% if grant.name_url %}</a>{% endif %} {% if grant.organisation %} from {% if grant.organisation_url %}<a href="{{ grant.organisation_url }}" target="_blank">{% endif %} {{ grant.organisation }}{% if grant.organisation_url %}</a>{% endif %}{% endif %}{% if grant.subtitle %}: {{ grant.subtitle }}{% endif %} ({{ grant.year }}).
 {% endfor %}
 
 {% endif %}
@@ -92,7 +92,7 @@ Pavlo Bazilinskyy is a postdoctoral researcher at TU Delft. He finished his PhD 
 ## Collaborations
 
 {% for collaborator in site.data.collaborators %}
-* {{ collaborator.name }}
+* {% if collaborator.name_url %}<a href="{{ collaborator.name_url }}" target="_blank">{% endif %}<strong>{{ collaborator.name }}</strong>{% if collaborator.name_url %}</a>{% endif %} ({{ collaborator.field }}, {% if collaborator.institution_url %}<a href="{{ collaborator.institution_url }}" target="_blank">{% endif %}{{ collaborator.institution }}{% if collaborator.institution_url %}</a>{% endif %}).
 {% endfor %}
 
 
