@@ -70,7 +70,7 @@ permalink: /about/
 ## Short biography
 
 <div class="short-bio">
-  Pavlo Bazilinskyy is a postdoctoral researcher at TU Delft. He finished his PhD at TU Delft in auditory feedback for automated driving as a Marie Curie Fellow. He was a head of data research at SD-Insights. Pavlo is involved with startups and was a chair of the Bridging Science and Business working group of MCAA and a director of the Research and Innovation unit of EMA.
+  Pavlo Bazilinskyy is a postdoctoral researcher at TU Delft. He finished his PhD at TU Delft in auditory feedback for automated driving as a Marie Curie Fellow. He was the head of data research at SD-Insights. Pavlo is involved with startups and was a chair of the Bridging Science and Business working group of MCAA and a director of the Research and Innovation unit of EMA.
 </div>
 
 {% if site.data.awards %}
