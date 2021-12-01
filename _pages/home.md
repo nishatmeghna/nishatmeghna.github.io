@@ -27,12 +27,12 @@ I am currently engaged in research on communication between multiple automated v
 </div>
 
 ### Free time
-* 🏃‍♂🚴‍♂️🏊‍♂️ Running, cycling, swimming, cross-country skiing, hiking. Like, [a lot of it](https://www.strava.com/athletes/7126007).
+* 🏃‍♂🚴‍♂️🏊‍♂️ Running, cycling, swimming, cross-country skiing, hiking. Like, [a lot of it](https://www.strava.com/athletes/bazilinskyy).
 * 🗺️ Travelling (especially through [couchsurfing](https://www.couchsurfing.com/people/pavlo.bazilinskyy)/[bewelcome](https://www.bewelcome.org/members/bazilinskyy)/[trustroots](https://www.trustroots.org/profile/bazilinskyy)).
 * 📖 Reading ([goodreads](https://www.goodreads.com/user/show/5571310-pavlo-bazilinskyy)).
 * ♟️ Chess ([chess.com](https://www.chess.com/member/bazilinskyy)).
 * 🎸 Music ([last.fm](https://www.last.fm/user/Hollgam)). I also play sax alto and guitar.
-* 📺 I enjoy watching films that feel more like a good book when you watch them.
+* 📺 Films and tv series ([imdb](https://www.imdb.com/user/ur16534776), [trakt](https://trakt.tv/users/bazilinskyy)). Somebody likes tv, surprise! 😬
 
 <br/>
 
