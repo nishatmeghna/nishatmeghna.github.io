@@ -8,6 +8,16 @@ permalink: /volunteering/
 # Volunteering and organisation of events
 
 <div class="rowl1">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/volunteering/tudelft-defence.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
+  <h4>TU Delft</h4>
+
+  At TU Delft, during 2014–1018 I was a member of the 3mE PhD council. Within this position, I co-organised a number of lunch lectures both on the topics related to academia and industry, as well as well-being (for example, a finisher of the 3100 mile running race [Pradeep Hoogakker](https://3100.srichinmoyraces.org/rtl-nieuws-does-story-pradeep-5000-kilometer-rondjes-rennen?page=2) gave a talk on the importance of mental health). During my PhD, I was also a member of the Research Council of [HFAuto](http://hf-auto.eu), where I served as a link between early-stage researchers and managers of the project. To contribute to academic mobility and career development of academics in the EU, I became a member of the advisory board of the EURAXESS project [TOP IV](https://euraxess-top.eu/top-iv/the-basics).
+
+  <ul style="overflow: hidden">
+  </ul>
+</div>
+
+<div class="rowl1">
   <img src="{{ site.url }}{{ site.baseurl }}/images/volunteering/rmi-berlin.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
   <h4>Marie Curie Alumni Association (MCAA)</h4>
 
@@ -35,10 +45,10 @@ permalink: /volunteering/
 </div>
 
 <div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/volunteering/tudelft-defence.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
-  <h4>TU Delft</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/volunteering/opendata-4tu.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
+  <h4>Open science</h4>
 
-  At TU Delft, during 2014–1018 I was a member of the 3mE PhD council. Within this position, I co-organised a number of lunch lectures both on the topics related to academia and industry, as well as well-being (for example, a finisher of the 3100 mile running race [Pradeep Hoogakker](https://3100.srichinmoyraces.org/rtl-nieuws-does-story-pradeep-5000-kilometer-rondjes-rennen?page=2) gave a talk on the importance of mental health). During my PhD, I was also a member of the Research Council of [HFAuto](http://hf-auto.eu), where I served as a link between early-stage researchers and managers of the project. To contribute to academic mobility and career development of academics in the EU, I became a member of the advisory board of the EURAXESS project [TOP IV](https://euraxess-top.eu/top-iv/the-basics). As an avid supporter of open science, since 2019, I have been a participant of [Open Cloud for Research Environments (OCRE)](https://www.ocre-project.eu).
+ As an avid supporter of open science, since 2019, I have been a participant of [Open Cloud for Research Environments (OCRE)](https://www.ocre-project.eu). I was involved in the workshop to discuss the structure of [European Open Science Cloud (EOSC)](https://www.eosc.eu). I strongly believe that all anonymised output of all research must be accessibly by the public by default (after all, we are doing science for the people). I publish all my articles in open access. Whenever possible, I keep datasets to all of my publications in open access at the [4TU.ResearchData](https://data.4tu.nl/authors/Pavlo_Bazilinskyy/9126724) data repository.
 
   <ul style="overflow: hidden">
   </ul>
