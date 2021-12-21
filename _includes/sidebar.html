@@ -62,6 +62,7 @@
   <a class="twitter-timeline" data-height="470" data-theme="dark" href="https://twitter.com/bazilinskyy?ref_src=twsrc%5Etfw">Tweets by @bazilinskyy</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
+{% if site.data.events %}
 <div class="well" style="padding: 0px">
 <h4 style="padding-left: 10px">Upcoming Events</h4>
   <div style="display: block; border-top: 1px solid rgba(145,165,180,.6); padding: 10px">
@@ -72,3 +73,5 @@
     {% endfor %}
   </div>
 </div>
+{% endif %}
+
