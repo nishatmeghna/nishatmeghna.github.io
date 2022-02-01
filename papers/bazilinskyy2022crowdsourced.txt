@@ -1,9 +1,6 @@
-@inproceedings{bazilinskyy2021visual,
-  title={Visual attention of pedestrians in traffic scenes: A crowdsourcing experiment},
+@inproceedings{bazilinskyy2022crowdsourced,
+  title={Crowdsourced assessment of 227 text-based eHMIs for a crossing scenario},
   author={Bazilinskyy, Pavlo and Dodou, Dimitra and De Winter, J. C. F.},
   booktitle={Proceedings of International Conference on Applied Human Factors and Ergonomics (AHFE)},
-  pages={147--154},
-  year={2021},
-  organization={Springer},
   address={New York, USA}
 }
