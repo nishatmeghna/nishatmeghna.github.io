@@ -333,8 +333,18 @@
   display: Proceedings of Applied Human Factors and Ergonomics (AHFE). New York, USA
   year: 2022
   code: https://github.com/bazilinskyy/text-crowdsourced
-  suppmat: https://www.dropbox.com/sh/fgs2kn11vpsjlyl/AADmsZ6aBMLMq-SnNzFlulc-a
+  suppmat: https://doi.org/10.4121/19102133
   abstract: "Future automated vehicles may be equipped with external human-machine interfaces (eHMIs) capable of signaling whether pedestrians can cross the road. Industry and academia have proposed a variety of eHMIs featuring a text message. An eHMI message can refer to the action to be performed by the pedestrian (egocentric message) or the automated vehicle (allocentric message). Currently, there is no consensus on the correct phrasing of the text message. We created 227 eHMIs based on text-based eHMIs observed in the literature. A crowdsourcing experiment (N = 1241) was performed with images depicting an automated vehicle equipped with an eHMI on the front bumper. The participants indicated whether they would (not) cross the road, and response times were recorded. Egocentric messages were found to be more compelling for participants to (not) cross than allocentric messages. Furthermore, Spanish-speaking participants found Spanish eHMIs more compelling than English eHMIs. Finally, it was established that some eHMI texts should be avoided, as signified by compellingness, long responses, and high inter-subject variability."
+
+- title: "Identifying lane changes automatically using the GPS sensors of portable devices"
+  authors: Driessen, T., Prasad, L., Bazilinskyy, P., De Winter, J. C. F.
+  url: driessen2022identifying
+  image: driessen2022identifying.jpg
+  display: Proceedings of Applied Human Factors and Ergonomics (AHFE). New York, USA
+  year: 2022
+  code: https://github.com/tomdries/gps-lane-changes
+  suppmat: https://doi.org/10.4121/19170302
+  abstract: "Mobile applications that provide GPS-based route navigation advice or driver diagnostics are gaining popularity. However, these applications currently do not have knowledge of whether the driver is performing a lane change. Having such information may prove valuable to individual drivers (e.g., to provide more specific navigation instructions) or road authorities (e.g., knowledge of lane change hotspots may inform road design). The present study aimed to assess the accuracy of lane change recognition algorithms that rely solely on mobile GPS sensor input. Three trips on Dutch highways, totaling 158 km of driving, were performed while carrying two smartphones (Huawei P20, Samsung Galaxy S9), a GPS-equipped GoPro Max, and a USB GPS receiver (GlobalSat BU343-s4). The timestamps of all 215 lane changes were manually extracted from the forward-facing GoPro camera footage, and used as ground truth. After connecting the GPS trajectories to the road using Mapbox Map Matching API (2022), lane changes were identified based on the exceedance of a lateral translation threshold in set time windows. Different thresholds and window sizes were tested for their ability to discriminate between a pool of lane change segments and an equally-sized pool of no-lane-change segments. The overall accuracy of the lane-change classification was found to be 90%. The method appears promising for highway engineering and traffic behavior research that use floating car data, but there may be limited applicability to real-time advisory systems due to the occasional occurrence of false positives."
 
 - title: "Intent communication in nature: An overview of biological paradigms and their applicability to automated vehicle"
   authors: Oudshoorn, M. P. J., De Winter, J. C. F., Bazilinskyy, P., Dodou, D.
