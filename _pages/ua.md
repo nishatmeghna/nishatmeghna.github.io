@@ -47,9 +47,9 @@ permalink: /ua/
     <div class="row">
       <div class="col-sm-4">
         <strong>Bank transfer</strong><br>
-        - IBAN: LT06 3250 0895 3818 4654<br>
-        - BIC: REVOLT21<br>
-        - Name: Uliana Furiv
+        IBAN: LT06 3250 0895 3818 4654<br>
+        BIC: REVOLT21<br>
+        Name: Uliana Furiv
       </div>
       <div class="col-sm-4">
         <strong>PayPal</strong><br>
@@ -58,7 +58,7 @@ permalink: /ua/
         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
         <img alt="" border="0" src="https://www.paypal.com/en_NL/i/scr/pixel.gif" width="1" height="1" />
         </form>
-        Or use email pavlo.bazilinskyy@gmail.com.
+        Email pavlo.bazilinskyy@gmail.com
       </div>
       <div class="col-sm-4">
         <strong>Tikkie 🇳🇱</strong><br>
