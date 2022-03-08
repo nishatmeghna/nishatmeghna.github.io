@@ -1,11 +1,11 @@
 ---
-title: "Help Ukraine"
+title: "Help Ukraine in its fight for freedom"
 layout: gridlay
 sitemap: false
 permalink: /ua/
 ---
 
-# Help Ukraine in its fights for freedom
+# Help Ukraine in its fight for freedom
 
 <div class="rowl1">
   <img src="{{ site.url }}{{ site.baseurl }}/images/ua/firefighters.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
@@ -20,6 +20,7 @@ permalink: /ua/
 </div>
 
 <div class="rowl1">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/ua/vest.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
   <h4>Plates for bulletproof vests</h4>
    We are searching for level III protection plates for bulletproof vests ([example](https://uarmprotection.com/product/sa3u-level-iii-uhmwpe)). If you know where we could order them, or are able to donate a few, please contact me at [pavlo.bazilinskyy@gmail.com](mailto:pavlo.bazilinskyy@gmail.com).
    <ul style="overflow: hidden">
@@ -27,6 +28,7 @@ permalink: /ua/
 </div>
 
 <div class="rowl1">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/ua/drone.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
   <h4>Drones</h4>
   My friends in the territorial defence forces are really desperate for drones for surveillance (and not armoured action). If you, or you contacts have a drone or two that you do not need anymore, please contact me at [pavlo.bazilinskyy@gmail.com](mailto:pavlo.bazilinskyy@gmail.com).
    <ul style="overflow: hidden">
@@ -35,25 +37,36 @@ permalink: /ua/
 
 <div class="rowl1">
   <img src="{{ site.url }}{{ site.baseurl }}/images/ua/boxes.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
-  <h4>Donations</h4>
+  <h4>How to donate</h4>
   Thank you very much for your support and solidarity with Ukraine. We are standing strong in Ukraine, but every day we are losing Ukrainians to this horrific war. Believe me, we all want the russian aggression to <sdtrong>STOP</sdtrong>. That's why every Ukrainian is doing everything possible to support Ukraine in this difficult situation. And I know for a fact that you can help us stop it!  
 
   We have now raised more than €12000 and have shipped 11 boxes of donations from Poland to Ukraine. We are hoping to buy more assembled bulletproof vests, helmets, and drones. And we need your help! If you donate even 1 dollar or 1 euro, it will help us get closer to the end of this brutal war. Please help us make a difference. You may contribute in various ways:
-  
-  <h5>Bank transfer</h5>
-  - IBAN: LT06 3250 0895 3818 4654
-  - BIC: REVOLT21
-  - Name: Uliana Furiv
 
-  <h5>PayPal (pavlo.bazilinskyy@gmail.com)</h5>
-  <form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="HAVMMJT77E4D8" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_NL/i/scr/pixel.gif" width="1" height="1" />
-</form>
-
-  <h5>Tikkie 🇳🇱</h5>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/ua/tikkie.jpg" class="img-responsive" style=" width: 200px;" />
+  {::nomarkdown}
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4">
+        <strong>Bank transfer</strong><br>
+        - IBAN: LT06 3250 0895 3818 4654<br>
+        - BIC: REVOLT21<br>
+        - Name: Uliana Furiv
+      </div>
+      <div class="col-sm-4">
+        <strong>PayPal</strong><br>
+        <form action="https://www.paypal.com/donate" method="post" target="_top">
+        <input type="hidden" name="hosted_button_id" value="HAVMMJT77E4D8" />
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+        <img alt="" border="0" src="https://www.paypal.com/en_NL/i/scr/pixel.gif" width="1" height="1" />
+        </form>
+        Or use email pavlo.bazilinskyy@gmail.com.
+      </div>
+      <div class="col-sm-4">
+        <strong>Tikkie 🇳🇱</strong><br>
+        <img src="{{ site.url }}{{ site.baseurl }}/images/ua/tikkie.jpg" class="img-responsive" style="width: 200px; margin-top: 0px;" />
+      </div>
+    </div>
+  </div>
+  {:/}
 
   Thank you for your support!
   <ul style="overflow: hidden">

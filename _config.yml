@@ -30,7 +30,6 @@ nav_pages:
   # - name: team
   - name: education
   - name: volunteering
-  - name: ua
 
 # Do you want to group your publications by year? {true/false}
 group_pub_by_year: true
