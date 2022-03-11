@@ -8,7 +8,7 @@ permalink: /ua/
 # Help Ukraine in its fight for freedom
 
 <div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/ua/firefighters.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/ua/fire.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
   <h4>Why help 🇺🇦</h4>
   My name is Pavlo. I am a Dutch and Ukrainian citizen, living between Eindhoven in the Netherlands and Chernihiv in Ukraine. I was in Ukraine on the 24th of February when the Russian army invaded Ukraine. I was able to take my mother to Poland on that sad day. But my 76 years old grandmother could not leave and is threatened by the Russian aggressors now who claim that the Ukrainian population needs to be “denazified”, no matter the cost. My grandmother and I are native Russian speakers. Together with many Russians she was a rocket engineer working on the Soviet Concorde Tu-144. Her father lost his arm in World War II defending Russians. She raised me and I love her very much. And now she is not well, scared, and surviving in a cold basement fearing for her life. This war is very personal to me. I am crying as I am writing these words in Poland while my friends are fighting and dying on the very streets of Chernihiv where we played as children. This story of my family is unfortunately only one of the many ones unfolding right now in Ukraine and beyond its border.
 
@@ -16,30 +16,6 @@ permalink: /ua/
 
   Now, our initiative is working to respond to the urgent needs of our civilian defenders and state emergency units such as firefighters and medics. The first week of March, there were 40 fires in Kharkiv alone. The state emergency service units are rescuing people with their bare hands without having even basic equipment, such as gloves and protective boots. In response to this, we have already bought and successfully delivered 220 protective gloves, 50 pairs of protective boots, 30 powerbanks (to counteract power outages), 10 electric heaters, tents, sleeping bags, hoses, a reverse osmosis system, a motor pump, and other supplies to support the emergency service units in Kharkiv (photo), Chernihiv, and Kyiv. We also supported our local defenders with surveillance equipment such as binoculars, flashlights, drones, and night vision goggles. <strong>And now we aim to buy 60 tourniquets for our emergency responders.</strong>
   <ul style="overflow: hidden">
-  </ul>
-</div>
-
-<div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/ua/vest.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
-  <h4>Plates for bulletproof vests</h4>
-   We are searching for level III protection plates for bulletproof vests ([example](https://uarmprotection.com/product/sa3u-level-iii-uhmwpe)). If you know where we could order them, or are able to donate a few, please contact me at [pavlo.bazilinskyy@gmail.com](mailto:pavlo.bazilinskyy@gmail.com).
-   <ul style="overflow: hidden">
-  </ul>
-</div>
-
-<div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/ua/drone.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
-  <h4>Drones</h4>
-  At the time of writing, in Kharkiv alone, there are over 470 damaged or destroyed houses. Hundreds of innocent civilians are now homeless. They are sleeping on bare soil or concrete floor of basements in freezing temperatures. Please, donate your old sleeping bags or if you are in contact with an organization, such as scouting, campsite or sports societies, that can spare some sleeping bags, please contact me at [pavlo.bazilinskyy@gmail.com](mailto:pavlo.bazilinskyy@gmail.com).
-   <ul style="overflow: hidden">
-  </ul>
-</div>
-
-<div class="rowl1">
-  <div class="img-responsive" style="margin-top: 5px; margin-right: 19px; float: left"><iframe src="https://www.youtube.com/embed/XPWJLU8vb2c?playlist=XPWJLU8vb2c&loop=1&autoplay=1&mute=1" style="width: 166px; height: 300px; border-radius: 5px" frameborder="0" allowfullscreen></iframe></div>
-  <h4>Sleeping bags</h4>
-  Hundreds of innocent civilians are now homeless. They are sleeping on bare soil/concrete floor of a basement in freezing temperatures. Maybe you can donate your old sleeping bag or are in contact with an organisation that could spare some (scouting, campsite, sports society etc.), please contact me at [pavlo.bazilinskyy@gmail.com](mailto:pavlo.bazilinskyy@gmail.com). 
-   <ul style="overflow: hidden">
   </ul>
 </div>
 
@@ -81,5 +57,30 @@ permalink: /ua/
   </div>
   {:/}
   <ul style="overflow: hidden">
+  </ul>
+</div>
+
+<div class="rowl1">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/ua/vest.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
+  <h4>Plates for bulletproof vests</h4>
+   We are searching for level III protection plates for bulletproof vests ([example](https://uarmprotection.com/product/sa3u-level-iii-uhmwpe)). If you know where we could order them, or are able to donate a few, please contact me at [pavlo.bazilinskyy@gmail.com](mailto:pavlo.bazilinskyy@gmail.com).
+   <ul style="overflow: hidden">
+  </ul>
+</div>
+
+<div class="rowl1">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/ua/drone.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
+  <h4>Drones</h4>
+  At the time of writing, in Kharkiv alone, there are over 470 damaged or destroyed houses. Hundreds of innocent civilians are now homeless. They are sleeping on bare soil or concrete floor of basements in freezing temperatures. Please, donate your old sleeping bags or if you are in contact with an organization, such as scouting, campsite or sports societies, that can spare some sleeping bags, please contact me at [pavlo.bazilinskyy@gmail.com](mailto:pavlo.bazilinskyy@gmail.com).
+   <ul style="overflow: hidden">
+  </ul>
+</div>
+
+<div class="rowl1">
+  <div class="img-responsive" style="margin-top: 5px; margin-right: 19px; float: left"><iframe src="https://www.youtube.com/embed/XPWJLU8vb2c?playlist=XPWJLU8vb2c&loop=1&autoplay=1&mute=1" style="width: 166px; height: 300px; border-radius: 5px" frameborder="0" allowfullscreen></iframe></div>
+  <!-- <div class="img-responsive" style="margin-top: 5px; margin-right: 19px; float: left"><video width="320" height="240" autoplay loop muted><source src="{{ site.url }}{{ site.baseurl }}/images/ua/chernihiv.mp4" type="video/mp4" />Your browser does not support the video tag.</video></div> -->
+  <h4>Sleeping bags</h4>
+  Hundreds of innocent civilians are now homeless. They are sleeping on bare soil/concrete floor of a basement in freezing temperatures. Maybe you can donate your old sleeping bag or are in contact with an organisation that could spare some (scouting, campsite, sports society etc.), please contact me at [pavlo.bazilinskyy@gmail.com](mailto:pavlo.bazilinskyy@gmail.com). 
+   <ul style="overflow: hidden">
   </ul>
 </div>
