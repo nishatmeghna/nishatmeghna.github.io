@@ -48,12 +48,6 @@ permalink: /ua/
         <img src="{{ site.url }}{{ site.baseurl }}/images/ua/tikkie.jpg" class="img-responsive" style="width: 200px; margin-top: 0px;" />
       </div>
     </div>
-    <div class="row">
-      <div class="col-sm-12">
-        <strong>Send directly to us</strong><br>
-        Also, we are collecting supplies and donations in Radom, Poland from where they are being transported to the hotspots in Ukraine. Please contact me at <a href="mailto:pavlo.bazilinskyy@gmail.com" target="_blank">pavlo.bazilinskyy@gmail.com</a> and I will share the exact address. Normal postal service (not DHL or any private parcel service) is good and we can also reimburse the shipment costs.
-      </div>
-    </div>
   </div>
   {:/}
   <ul style="overflow: hidden">
@@ -81,6 +75,14 @@ permalink: /ua/
   <!-- <div class="img-responsive" style="margin-top: 5px; margin-right: 19px; float: left"><video width="320" height="240" autoplay loop muted><source src="{{ site.url }}{{ site.baseurl }}/images/ua/chernihiv.mp4" type="video/mp4" />Your browser does not support the video tag.</video></div> -->
   <h4>Sleeping bags</h4>
   Hundreds of innocent civilians are now homeless. They are sleeping on bare soil/concrete floor of a basement in freezing temperatures. Maybe you can donate your old sleeping bag or are in contact with an organisation that could spare some (scouting, campsite, sports society etc.), please contact me at [pavlo.bazilinskyy@gmail.com](mailto:pavlo.bazilinskyy@gmail.com). 
+   <ul style="overflow: hidden">
+  </ul>
+</div>
+
+<div class="rowl1">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/ua/car.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 200px;" />
+  <h4>Send directly to us</h4>
+  Also, we are collecting supplies and donations in Radom, Poland from where they are being transported to the hotspots in Ukraine. Please contact me at [pavlo.bazilinskyy@gmail.com](mailto:pavlo.bazilinskyy@gmail.com) and I will share the exact address. Normal postal service (not DHL or any private parcel service) is good and we can also reimburse the shipment costs.
    <ul style="overflow: hidden">
   </ul>
 </div>
