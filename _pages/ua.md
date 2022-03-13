@@ -66,7 +66,8 @@ permalink: /ua/
 <div class="rowl1">
   <img src="{{ site.url }}{{ site.baseurl }}/images/ua/drone.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
   <h4>Drones</h4>
-  At the time of writing, in Kharkiv alone, there are over 470 damaged or destroyed houses. Hundreds of innocent civilians are now homeless. They are sleeping on bare soil or concrete floor of basements in freezing temperatures. Please, donate your old sleeping bags or if you are in contact with an organization, such as scouting, campsite or sports societies, that can spare some sleeping bags, please contact me at [pavlo.bazilinskyy@gmail.com](mailto:pavlo.bazilinskyy@gmail.com).
+  The local defenders desperately need drones for surveillance. The drones are vital to understand the next move of the Russian occupying forces and to protect the civilian population in the heavily bombarded Ukrainian cities. If you or you contacts have a drone that you wish do donate, please contact me at [pavlo.bazilinskyy@gmail.com](mailto:pavlo.bazilinskyy@gmail.com).
+
    <ul style="overflow: hidden">
   </ul>
 </div>
