@@ -22,7 +22,7 @@ permalink: /ua/
 
 <div class="rowl1">
   <img src="{{ site.url }}{{ site.baseurl }}/images/ua/boxes.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
-  <h4>How to donate</h4>
+  <h4>How to donate 🙏</h4>
   Thank you very much for your support and solidarity with Ukraine. Ukrainians are standing strong, but every day we are losing children, women, and men in this horrific war that was imposed on us. We all want the russian destruction to <strong>STOP</strong>. I emphatically call upon you to help us to stop it. Every dollar or euro you donate helps us to help those who were hit the hardest by the war. Please, donate using the options below:<br><br><br><br>
 
   {::nomarkdown}
