@@ -368,6 +368,8 @@
   image: bazilinskyy2022get.jpg
   display: <b>Manuscript submitted for publication</b>
   year: 
+  code: https://github.com/bazilinskyy/coupled-sim-evasive
+  suppmat: https://www.dropbox.com/sh/p5kj94me1evk8u3/AADcuB73_4QgW_eJfi1Dna7ga
   abstract: "Research over the past few years suggests that displays on the exterior of the car, known as eHMIs, can be effective in helping a pedestrian cross the road safely. This study examines a new application of eHMIs, namely the provision of direction information to pedestrians in scenarios where the pedestrian is almost hit by a car. In an experiment, car drivers and pedestrians interacted in the same virtual world, where the pedestrian had to cross the road as the car driver approached. The results showed that the directional eHMI caused pedestrians to step back and produced a tendency towards fewer crashes compared to no eHMI. The eHMI increased the pedestrians’ self-reported understanding of what the car was going to do, although some pedestrians did not notice the eHMI. In conclusion, there is potential in supporting pedestrians in situations where they need support the most, namely critical encounters. Future research may consider coupling a directional eHMI to autonomous emergency steering."
 
 - title: "Stopping by looking: A driver-pedestrian interaction study in a coupled simulator using head-mounted displays with eye-tracking"
