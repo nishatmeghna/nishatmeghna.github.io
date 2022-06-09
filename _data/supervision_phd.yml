@@ -13,3 +13,17 @@
   year: 2019
   status: inprogress
   comment: co-supervision
+
+- name: Haoyu Dong 
+  name_url: https://research.tue.nl/en/persons/haoyu-dong
+  project: The interaction design between in-car driver/passenger and highly automated vehicle for calibrating trust and enhancing user experience. 
+  # project_url:
+  year: 2021
+  status: inprogress
+
+- name: Roulin Gao
+  name_url: https://research.tue.nl/en/persons/ruolin-gao-gao
+  project: Data-driven assessment of driving behaviour of young and elderly drivers
+  # project_url:
+  year: 2021
+  status: inprogress
