@@ -28,14 +28,14 @@ permalink: /ua/
   {::nomarkdown}
   <div class="container-fluid">
     <div class="row">
-      <div class="col-sm-4">
+      <div class="col-sm-6">
         <strong>Bank transfer</strong><br>
         IBAN: LT06 3250 0895 3818 4654<br>
         BIC: REVOLT21<br>
         Name: Uliana Furiv<br>
         Revolut email: ulianafuriv@gmail.com
       </div>
-      <div class="col-sm-4">
+      <div class="col-sm-6">
         <strong>PayPal</strong><br>
         <form action="https://www.paypal.com/donate" method="post" target="_top">
         <input type="hidden" name="hosted_button_id" value="HAVMMJT77E4D8" />
@@ -44,10 +44,10 @@ permalink: /ua/
         </form>
         Paypal email: pavlo.bazilinskyy@gmail.com
       </div>
-      <div class="col-sm-4">
+<!--       <div class="col-sm-4">
         <strong>Tikkie 🇳🇱</strong><br>
         <img src="{{ site.url }}{{ site.baseurl }}/images/ua/tikkie.jpg" class="img-responsive" style="width: 200px; margin-top: 0px;" />
-      </div>
+      </div> -->
     </div>
   </div>
   {:/}
