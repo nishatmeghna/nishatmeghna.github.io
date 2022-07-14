@@ -373,22 +373,23 @@
   abstract: "Electric vehicles (EVs) are becoming increasingly popular, mostly due to their lower environmental impact during operation. Since these vehicles are often equipped with quieter electric motors, when compared to internal combustion  engine  vehicles (ICEV), there is a concern that EVs can be too quiet, resulting in poorer awareness and lower road safety. Consequently, several EV manufacturers have implemented synthetic sound signals to alert pedestrians and other road users of the presence of the vehicle. However, given the expected future growth in EVs, it is essential to maintain the nuisance due to these synthetic sound signals within acceptable levels. This manuscript discusses the challenge of maximizing the noticeability of EVs for pedestrians, while minimizing the annoyance caused. This paper evaluates four different types of synthetic sound signals: (1) a pure continuous tone, (2) a pure discrete tone, (3) a combined continuous tone, and (4) discrete beeps. For the tonal signals, different sound frequencies are analyzed. These synthetic signals are also compared to the sound of a typical ICE vehicle as a baseline and a case with no synthetic signal implemented (i.e., just the noise of the tires). A simple vehicle straight trajectory with a constant velocity of 30 km/h is considered as a representative case study. A total of 30 different sound scenarios were simulated (with and without background noise) and auralized considering the vehicle motion relative to a stationary observer at the side of the road. These sounds were employed in a laboratory test with 21 participants and an online crowd-sourced listening experiment featuring 110 participants. In addition, the expected noise annoyance was estimated using psychoacoustic models based on sound quality metrics and compared to the experimental values determined in the listening experiments."
 
 - title: "Get out of the way! Examining eHMIs in critical driver-pedestrian encounters in a coupled simulator"
-  authors: Bazilinskyy, P., Kooijman, L.*, Dodou, D., Mallant, K. P. T., Roosens, V. E. R., Middelweerd, M. D. L. M., Overbeek, L. D., De Winter, J. C. F.
+  authors: Bazilinskyy, P., Kooijman, L., Dodou, D., Mallant, K. P. T., Roosens, V. E. R., Middelweerd, M. D. L. M., Overbeek, L. D., De Winter, J. C. F.
   url: bazilinskyy2022get
   image: bazilinskyy2022get.jpg
-  display: <b>Manuscript submitted for publication</b>
-  year: 
+  display: Proceedings of International ACM Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutoUI)
+  year: 2022
   code: https://github.com/bazilinskyy/coupled-sim-evasive
-  suppmat: https://www.dropbox.com/sh/p5kj94me1evk8u3/AADcuB73_4QgW_eJfi1Dna7ga
+  suppmat: https://doi.org/10.4121/20224281
   abstract: "Research over the past few years suggests that displays on the exterior of the car, known as eHMIs, can be effective in helping a pedestrian cross the road safely. This study examines a new application of eHMIs, namely the provision of direction information to pedestrians in scenarios where the pedestrian is almost hit by a car. In an experiment, car drivers and pedestrians interacted in the same virtual world, where the pedestrian had to cross the road as the car driver approached. The results showed that the directional eHMI caused pedestrians to step back and produced a tendency towards fewer crashes compared to no eHMI. The eHMI increased the pedestrians’ self-reported understanding of what the car was going to do, although some pedestrians did not notice the eHMI. In conclusion, there is potential in supporting pedestrians in situations where they need support the most, namely critical encounters. Future research may consider coupling a directional eHMI to autonomous emergency steering."
 
 - title: "Blinded windows and empty driver seats: The effects of automated vehicle characteristics on cyclist decision-making"
   authors: Bazilinskyy, P., Dodou, D., Eisma, Y. B., Vlakveld, W. V., De Winter, J. C. F.
   url: bazilinskyy2022blinded
   image: bazilinskyy2022blinded.jpg
-  display: <b>Manuscript submitted for publication</b>
-  year:
-  suppmat: https://www.dropbox.com/sh/y5klmou6lk83nw3/AACNzyt167EEApjguhr7cVwTa
+  display: IET Intelligent Transportation Systems
+  year: 2022
+  doi: 10.1049/itr2.12235
+  suppmat: https://doi.org/10.4121/20103188
   abstract: "Automated vehicles (AVs) may feature blinded windows and external Human-Machine Interfaces (eHMIs). The driver may be inattentive or absent. How these features would affect cyclists is unknown. In Experiment 1, 1260 participants viewed images of approaching vehicles from a cyclist’s perspective and were asked to decide to brake or continue pedalling. The images depicted (1) an AV with an eHMI ‘GO’ on the roof, an AV without eHMI, or a traditional vehicle, (2) with the driver present, driver absent, or with blinded windows, (3) about to cross the cyclist’ path, (4) in visually simple or complex surroundings, and (5) at five distances (urgency levels) from the cyclist. The eHMI and urgency level had a strong impact on crossing decisions, whereas the complexity of the surroundings had no significant influence. Blinded windows caused participants to brake for the traditional vehicle. These effects were replicated in Experiment 2 (n = 1086), which also required participants to detect vehicle features. The eHMI ‘GO’ and blinded windows yielded high detection rates, whereas the detectability of the driver was scenario-dependent. The driver’s eye contact caused participants to continue pedalling."
 
 # - title: ""
