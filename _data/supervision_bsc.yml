@@ -75,3 +75,19 @@
   project_url: 2014navigation
   year: 2014
   status: completed
+
+- name: Matin Maskitou
+  name_url: https://www.linkedin.com/in/matin-maskitou-6931831b7
+  project: Light-based presentation of objects around automated vehicle
+  project_url: 
+  year: 2022
+  status: inprogress
+  comment: within <a href="https://mobility-squad.com/" target="_blank">Future Mobility squad</a>
+
+- name: Jesper Kapteijns
+  name_url: https://www.linkedin.com/in/jesper-kapteijns-9079301b2/
+  project: eHMI inspired by movement of liquid
+  project_url: 
+  year: 2022
+  status: inprogress
+  comment: within <a href="https://mobility-squad.com/" target="_blank">Future Mobility squad</a>

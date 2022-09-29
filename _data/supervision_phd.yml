@@ -9,7 +9,7 @@
 - name: Tom Driessen
   name_url: https://www.tudelft.nl/staff/t.driessen
   project: Data-driven assessment of driving behaviour of young and elderly drivers
-  project_url: https://repository.tudelft.nl/islandora/object/uuid%3Aea30f1c8-70d6-493c-948b-3b6e0c398c3a
+  # project_url:
   year: 2019
   status: inprogress
   comment: co-supervision
@@ -26,4 +26,11 @@
   project: Data-driven assessment of driving behaviour of young and elderly drivers
   # project_url:
   year: 2021
+  status: inprogress
+
+- name: Mervyn Franssen
+  name_url: https://research-tue-nl.translate.goog/en/persons/mervyn-franssen
+  project: Interaction of humans and automated vehicles
+  # project_url:
+  year: 2022
   status: inprogress
