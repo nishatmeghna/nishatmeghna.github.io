@@ -22,7 +22,7 @@ permalink: /publications/
 
   {% assign pdfpresent = false %}
   {% if publi.url %}
-    {% assign pdffile = "/papers/" | append:  publi.url  | append: ".pdf" %}
+    {% assign pdffile = "/publications/" | append:  publi.url  | append: ".pdf" %}
     {% for file in site.static_files %}
       {% if file.path contains pdffile %}
        {% assign pdfpresent = true %}
@@ -34,7 +34,7 @@ permalink: /publications/
 
   {% assign bibtest = false %}
   {% if publi.url %}
-    {% assign bibfile = "/papers/" | append:  publi.url  | append: ".txt" %}
+    {% assign bibfile = "/publications/" | append:  publi.url  | append: ".txt" %}
     {% for file in site.static_files %}
       {% if file.path contains bibfile %}
        {% assign bibtest = true %}
@@ -70,7 +70,7 @@ permalink: /publications/
 
   {% if bibtest == true %}
   <div class="collapse" id="{{publi.url}}2"><div class="well-bib">
-   <iframe src='{{site.url}}{{site.baseurl}}/papers/{{publi.url}}.txt' scrolling='yes' width="100%" height="210" frameborder='0'></iframe>
+   <iframe src='{{site.url}}{{site.baseurl}}/publications/{{publi.url}}.txt' scrolling='yes' width="100%" height="210" frameborder='0'></iframe>
   </div></div>
   {% endif %}
 
@@ -103,7 +103,7 @@ permalink: /publications/
 
 {% assign pdfpresent = false %}
   {% if publi.url %}
-    {% assign pdffile = "/papers/" | append:  publi.url  | append: ".pdf" %}
+    {% assign pdffile = "/publications/" | append:  publi.url  | append: ".pdf" %}
     {% for file in site.static_files %}
       {% if file.path contains pdffile %}
        {% assign pdfpresent = true %}
@@ -116,7 +116,7 @@ permalink: /publications/
 
 {% assign bibtest = false %}
 {% if publi.url %}
-{% assign bibfile = "/papers/" | append:  publi.url  | append: ".txt" %}
+{% assign bibfile = "/publications/" | append:  publi.url  | append: ".txt" %}
 {% for file in site.static_files %}
   {% if file.path contains bibfile %}
    {% assign bibtest = true %}
@@ -152,7 +152,7 @@ permalink: /publications/
 
 {% if bibtest == true %}
 <div class="collapse" id="{{publi.url}}2"><div class="well-bib">
-<iframe src='{{site.url}}{{site.baseurl}}/papers/{{publi.url}}.txt' scrolling='yes' width="100%" height="210" frameborder='0'></iframe>
+<iframe src='{{site.url}}{{site.baseurl}}/publications/{{publi.url}}.txt' scrolling='yes' width="100%" height="210" frameborder='0'></iframe>
 </div></div>
 {% endif %}
 

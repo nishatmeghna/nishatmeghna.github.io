@@ -13,7 +13,7 @@ with open(r'_data/publist.yml') as file:
                 url=v
             if (k=='arxiv'):
                 print('working on ArXiv file ' + url)
-                os.system("./scripts/arxiv2bib.py " + str(v) + " > papers/" + url +".txt")
+                os.system("./scripts/arxiv2bib.py " + str(v) + " > publications/" + url +".txt")
 
 #get .bib for files with DOI 
 with open(r'_data/publist.yml') as file:
@@ -24,9 +24,9 @@ with open(r'_data/publist.yml') as file:
                 url=v
             if (k=='doi'):
                 print('working on DOI file ' + url)
-                os.system("./scripts/doi2bib.py " + str(v) + " > papers/" + url +".txt")
+                os.system("./scripts/doi2bib.py " + str(v) + " > publications/" + url +".txt")
                 #remove empty lines that doi2bib gives
-                open("papers/tmp.bib",'w').write(
+                open("publications/tmp.bib",'w').write(
                     ''.join(
-                        l for l in open("papers/" + url + ".txt") if l.strip()))
-                os.system("mv papers/tmp.bib papers/" + url + ".txt")
+                        l for l in open("publications/" + url + ".txt") if l.strip()))
+                os.system("mv publications/tmp.bib publications/" + url + ".txt")
