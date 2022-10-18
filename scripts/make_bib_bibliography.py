@@ -5,7 +5,7 @@ import os
 
 def concat_bib(dir_in, dir_out, file_out):
     """Concatenate bib files into one large file.
-    
+
     Args:
         dir_in (string): Directory with bib files stored as .txt plain text
                          files.
