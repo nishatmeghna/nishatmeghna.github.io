@@ -5,19 +5,19 @@
   year: 2023
   status: inprogress
 
-- name: Iva Surana
-  name_url: https://www.linkedin.com/in/ivasurana
-  project: Modelling truck driver behaviour
-  project_url:
-  year: 2022
-  status: inprogress
-
 - name: Noureddine Begga
   name_url: https://www.researchgate.net/profile/Noureddine-Begga
   project: Looking behaviour of pedestrians
   project_url:
   year: 2023
   status: inprogress
+
+- name: Iva Surana
+  name_url: https://www.linkedin.com/in/ivasurana
+  project: Stability in truck driving behaviour
+  project_url: https://repository.tudelft.nl/islandora/object/uuid:a2858c59-7b39-4cda-87cc-ece2757aaae8
+  year: 2022
+  status: completed
 
 - name: Lokkeshver Kumaaravelu
   name_url: https://www.linkedin.com/in/lokkeshtk
