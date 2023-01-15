@@ -1,5 +1,0 @@
-@article{bazilinskyy2021synthetic,
-  title={Synthetic sounds for automated vehicles: Effective is annoying},
-  author={Bazilinskyy, Pavlo and Merino-Martınez, Roberto and Özcan, Elif and De Winter, J. C. F.},
-  year={2022}
-}
