@@ -125,3 +125,27 @@ permalink: /education/
 {% endfor %}
 </div>
 {% endif %}
+
+{% if site.data.supervision_defence %}
+<!-- Sort students by year -->
+{% assign students = site.data.supervision_defence | sort: 'year' | reverse %}
+## Defence committees
+<div class="rowl1" style="padding-top: 10px;">
+
+{% for student in students %}
+  {% assign pdffile = false %}
+  {% if student.project_url %}
+      {% if student.project_url contains '://' %}
+        {% assign pdffile = student.project_url %}
+      {% else %}
+        {% assign pdffile = "/publications/students/" | append:  student.project_url  | append: ".pdf" %}
+      {% endif %}
+  {% endif %}
+
+{{ forloop.index }}. {% if student.name_url %}<a href="{{ student.name_url }}" target="_blank">{% endif %} <strong>{{ student.name }}</strong> {% if student.name_url %}</a>{% endif %} ({{ student.year }}) {% if student.institution %} – at {{ student.institution }} {% endif %}
+<br/>
+<i>{{ student.project }}</i>{% if pdffile %} (<a href="{{ pdffile }}" target="_blank">link</a>){% endif %}.
+
+{% endfor %}
+</div>
+{% endif %}
