@@ -46,7 +46,17 @@ permalink: /volunteering/
   <img src="{{ site.url }}{{ site.baseurl }}/images/volunteering/opendata-4tu.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
   <h4>Open science</h4>
 
- As an avid supporter of open science, since 2019, I have been a participant of [Open Cloud for Research Environments (OCRE)](https://www.ocre-project.eu). I was involved in the workshop to discuss the structure of [European Open Science Cloud (EOSC)](https://www.eosc.eu). I strongly believe that all anonymised output of all research must be accessibly by the public by default (after all, we are doing science for the people). I publish all my articles in open access. Whenever possible, I keep datasets to all of my publications in open access at the [4TU.ResearchData](https://data.4tu.nl/authors/Pavlo_Bazilinskyy/9126724) data repository. At TU/e, I am one of the of the leaders of [OSC/e](https://osceindhoven.github.io) (Open Science Community Eindhoven).
+  As an avid supporter of open science, since 2019, I have been a participant of [Open Cloud for Research Environments (OCRE)](https://www.ocre-project.eu). I was involved in the workshop to discuss the structure of [European Open Science Cloud (EOSC)](https://www.eosc.eu). I strongly believe that all anonymised output of all research must be accessibly by the public by default (after all, we are doing science for the people). I publish all my articles in open access. Whenever possible, I keep datasets to all of my publications in open access at the [4TU.ResearchData](https://data.4tu.nl/authors/Pavlo_Bazilinskyy/9126724) data repository. At TU/e, I am one of the of the leaders of [OSC/e](https://osceindhoven.github.io) (Open Science Community Eindhoven).
+
+  <ul style="overflow: hidden">
+  </ul>
+</div>
+
+<div class="rowl1">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/ua/donations.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
+  <h4>Ukraine 🇺🇦</h4>
+
+ Together with my friends in Poland, and Ukraine I raise money and buy supplies to give direct support to civilians who are now risking their lives to protect the liberty in Ukraine. It all started with us searching for components of bulletproof vests for medics and local defenders assembled by our volunteers in Kharkiv. [Read more and see how to donate](/ua).
 
   <ul style="overflow: hidden">
   </ul>
