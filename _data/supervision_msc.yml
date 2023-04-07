@@ -1,3 +1,17 @@
+- name: Peihang Li
+  name_url: https://www.linkedin.com/in/peihang-li-785a45227/
+  project: Characterizing situational awareness of transport operators based on eye tracking
+  project_url:
+  year: 2023
+  status: inprogress
+
+- name: Thomas Marinissen
+  name_url: https://www.linkedin.com/in/thomas-marinissen-4a2155b9
+  project: Multimodal interface for controlling UI in an AV
+  project_url:
+  year: 2023
+  status: inprogress
+
 - name: Yuanzi Wang
   name_url: https://www.linkedin.com/in/yuanzi-wang-44bab5213/
   project: "A real road study of automated driving: The influence of the non-critical cue on automation surprise"
