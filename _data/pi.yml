@@ -1,24 +1,22 @@
-- name: Dr. Pavlo Bazilinskyy
+- name: Rahad Arman Nabid
   photo-small: bazilinskyy-defence.jpg
   photo-large: bazilinskyy-cycling.jpg
-  info: Assistant professor at TU Eindhoven
-  email: p.bazilinskyy@tue.nl
-  github: https://github.com/bazilinskyy
-  researchgate: https://www.researchgate.net/profile/Pavlo_Bazilinskyy
-  scholar: https://scholar.google.com/citations?user=_1df9yAAAAAJ
-  linkedin: https://www.linkedin.com/in/bazilinskyy
-  orcid: https://orcid.org/0000-0001-9565-8240
-  cv: https://github.com/bazilinskyy/bazilinskyy.github.io/blob/master/cv/CV-PavloBazilinskyy.pdf?raw=true
-  number_educ: 6
-  education1: (2022–) Ph.D Student at Temple University <a href="https://www.tue.nl/en/research/research-groups/future-everyday" target="_blank">Future Everyday</a> group at <a href="https://www.tue.nl" target="_blank">TU Eindhoven</a> 🇳🇱
-  education2: (2015–21) BSc In Electrical and Electronics Engineering from BUET <a href="https://sites.google.com/site/jcfdewinter" target="_blank">Dr. Joost de Winter</a> at <a href="https://www.tudelft.nl" target="_blank">TU Delft</a> 🇳🇱
-  education3: (2015) HSC from Notre Dame Collage <a href="https://sd-insights.eu" target="_blank">SD-Insights</a> 🇳🇱
-  education4: (2013) SSC degree from Bir Shreshta Noor Mohammad School <b>PhD in Human Factors of Automated Driving</b> at <a href="https://www.tudelft.nl" target="_blank">TU Delft</a> 🇳🇱
-  education5: (2012–14) <b>Double MSc in Computer Science</b> at <a href="" target="_blank">University of St Andrews</a> 🏴󠁧󠁢󠁳󠁣󠁴󠁿 and <a href="" target="_blank">Maynooth University</a> 🇮🇪
-  education6: (2009–12) <b>BEng in Information Technology</b> at <a href="https://www.xamk.fi" target="_blank">Mikkeli University of Applied Sciences</a> 🇫🇮
-  education1short: (2022–) Assistant professor, TU/e 
-  education2short: (2018–22) Postdoc, TU Delft 
-  education3short: (2018–21) Data scientist, SD-Insights
-  education4short: (2014–18) PhD, TU Delft
-  education5short: (2012–14) MSc, St Andrews/Maynooth
-  education6short: (2009–12) BEng, Mikkeli AMK
+  info: Research Assistant at TU HCI Lab
+  email: rahad.arman.nabid@temple.edu
+  github: https://github.com/rahadarmannabid
+  researchgate: https://www.researchgate.net/profile/Rahad-Arman-Nabid
+  scholar: https://scholar.google.com/citations?user=gBltM-4AAAAJ&hl=en
+  linkedin: https://bd.linkedin.com/in/rahad-arman-nabid
+  orcid: https://orcid.org/0000-0002-6562-6595
+  cv: https://www.overleaf.com/read/kdpbrmvccgjg
+  number_educ: 5
+  education1: (2022–) Ph.D Student at Temple University 🇺🇸
+  education2: (2015–21) BSc In Electrical and Electronics Engineering from BUET 🇧🇩
+  education3: (2015) HSC from Notre Dame Collage 🇧🇩
+  education4: (2013) SSC degree from Bir Shreshta Noor Mohammad School 🇧🇩
+  education5: (2011) JSC degree from Bir Shreshta Noor Mohammad School 🇧🇩
+  education1short: (2022–) Research Lead @ TU HCI Lab 🇺🇸 
+  education2short: (2022-) Ph.D. Student @ Temple University 🇺🇸 
+  education3short: (2021-2022) Project Coordinator @ Robi Axiata Ltd 🇧🇩
+  education4short: (2021) Research Engineer @ AIMS Lab
+  education5short: (2008–2023) Cofounder @ KolpoBD 🇧🇩
