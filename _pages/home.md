@@ -45,12 +45,5 @@ In the VCB project, our primary focus is on employing procedural methods to enab
 
 <div class="well-md">
   <h3>Funding</h3>
-  <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
-  No Funding 
-  <div class="row" style="text-align:center">
-  <iframe style="display:inline-block; border-radius: 5px; border:0px solid #FFF; width: 10%; height: 50px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png" frameborder="0" allowfullscreen></iframe>
-  <iframe style="display:inline-block; border-radius: 5px; border:0px solid #FFF; width: 10%; height: 50px" src="images/logos/nsf.png" frameborder="0" allowfullscreen></iframe>
-  
    <!-- {% for funder in site.data.funders %}{% if funder.url %}<a href="{{funder.url}}" target="_blank"><img src='/images/logos/{{ funder.image }}' style='max-height: 70px; max-width: 170px;'/></a>{% else %}<img src='/images/logos/{{ funder.image }}' class='mycenter' style='max-height: 70px; max-width: 170px;'/>{% endif %}   {% endfor %} -->
-  </div>
 </div>
