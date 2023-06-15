@@ -1,1 +1,1 @@
-Personal webpage of Pavlo Bazilinskyy. Live at [https://bazilinskyy.github.io](https://bazilinskyy.github.io/).
+Personal webpage of Rahad Arman Nabid. Live at [https://rahadarmannabid.github.io](https://rahadarmannabid.github.io/).

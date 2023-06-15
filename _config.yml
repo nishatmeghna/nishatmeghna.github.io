@@ -1,7 +1,7 @@
 # Site settings
-title: Dr. Pavlo Bazilinskyy
-email: p.bazilinskyy@tudelft.nl
-description: Personal webpage of Dr. Pavlo Bazilinskyy
+title: Rahad Arman Nabid
+email: rahadarmannabid@temple.edu
+description: Personal webpage of Rahad Arman Nabid
 baseurl: ""
 url: "https://rahadarmannabid.github.io"
 affiliation: I am part of the <a href="https://www.tue.nl/en/research/research-groups/future-everyday/" target="_blank">Future Everyday</a> group at TU Eindhoven.
@@ -11,14 +11,14 @@ google_analytics: G-7BE63RZMTW
 
 # Location info. (shown in footer)
 location: >
-  Department of Industrial Design<br/>
-  P.O. Box 513<br/>
-  5600 MB Eindhoven<br/>
-  Netherlands<br/>
+  SERC 377<br/>
+  19121<br/>
+  Philadelphia<br/>
+  Pennsylvania, USA<br/>
 
 # Contact info. (shown in footer)
 contact: >
-    Contact me via email: <a href="mailto:p.bazilinskyy@tue.nl" target="_blank">p.bazilinskyy@tue.nl</a><br/>
+    Contact me via email: <a href="rahadarmannabid@temple.edu" target="_blank">rahadarmannabid@temple.edu</a><br/>
 
 # Pages shown in navbar
 nav_pages:
