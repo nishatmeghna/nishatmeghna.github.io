@@ -36,14 +36,16 @@ In the VCB project, our primary focus is on employing procedural methods to enab
 
 
 ### Free time
-* 🏃‍♂ 🚴‍♂️ 🏏 Running, cycling swimming, cricket, soccer, vollyball,  😬 sport freak!!
-* 🗺️ Traveling  [travel map](https://www.roadgoat.com/travelers/rahad-arman-nabid?share_map=City).
-* 💻 Coding ([github](https://github.com/rahadarmannabid)), love python and flask!! 😬 
+* 🏃‍♂ 🚴‍♂️ 🏎️ Running, cycling, driving: Voom voom!! 
+* 🏏 ⚽️ 🏐 cricket, soccer, vollyball- I am a 😬 Sport Freak!!
+* 🗺️ Traveling [travel map](https://www.roadgoat.com/travelers/rahad-arman-nabid?share_map=City).
+* 💻 Coding ([github](https://github.com/rahadarmannabid)), I love python and flask!! 😬 
 * 📺 Films and tv series ([imdb](https://www.imdb.com/user/ur104220825/ratings?ref_=nv_usr_rt_4)), Somebody likes tv, surprise! 😬
 
 <br/>
 
 <div class="well-md">
   <h3>Funding</h3>
+  Currently I am not serching for any Funding.
    <!-- {% for funder in site.data.funders %}{% if funder.url %}<a href="{{funder.url}}" target="_blank"><img src='/images/logos/{{ funder.image }}' style='max-height: 70px; max-width: 170px;'/></a>{% else %}<img src='/images/logos/{{ funder.image }}' class='mycenter' style='max-height: 70px; max-width: 170px;'/>{% endif %}   {% endfor %} -->
 </div>
