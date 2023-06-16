@@ -4,7 +4,7 @@ email: rahadarmannabid@temple.edu
 description: Personal webpage of Rahad Arman Nabid
 baseurl: ""
 url: "https://rahadarmannabid.github.io"
-affiliation: I am part of the <a href="https://www.tue.nl/en/research/research-groups/future-everyday/" target="_blank">Future Everyday</a> group at TU Eindhoven.
+affiliation: I am part of the <a href="http://stevemacn.github.io/phd/" target="_blank">democratize expert processes</a> group at TU HCI lab.
 
 # Google analytics ID
 google_analytics: G-7BE63RZMTW
@@ -12,8 +12,8 @@ google_analytics: G-7BE63RZMTW
 # Location info. (shown in footer)
 location: >
   SERC 377<br/>
-  19121<br/>
   Philadelphia<br/>
+  19121<br/>
   Pennsylvania, USA<br/>
 
 # Contact info. (shown in footer)
