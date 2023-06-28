@@ -29,7 +29,8 @@ nav_pages:
   # - name: software
   - name: team
   # - name: education
-  - name: volunteering
+  # - name: volunteering
+  - name: FAQ
 
 # Do you want to group your publications by year? {true/false}
 group_pub_by_year: true

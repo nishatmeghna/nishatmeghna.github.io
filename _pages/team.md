@@ -13,7 +13,7 @@ permalink: /team/
 </div>
 
 
-Currently I am are working with professor [Enamul Hoque Price](http://www.yorku.ca/enamulh/), assistant professor and Nafis Tahmid Chowdhury, Masters Student, both are from York University, Canada on project "Expert Goggles" and "VisChatBot". 
+Currently I am are working with professor [Enamul Hoque Price](http://www.yorku.ca/enamulh/), assistant professor and Nafis Tahmid Chowdhury, Masters Student, both are from York University, Canada on project "Expert Goggles" and "VisChatBot" along with my PhD supervisor Stephen MacNeil.
 
  <!-- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
