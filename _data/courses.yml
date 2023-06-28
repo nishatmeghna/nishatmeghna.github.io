@@ -1,30 +1,9 @@
-- name: Automotive human factors
-  name_url: https://research.tue.nl/en/courses/automotive-human-factors-3
-  year_start: 2022
-  year_end: 
-  institution: TU/e
-  type: msc
-  code: 0HM310
-  subheading: Exploration of relation between a car or truck, its human driver, and the dynamic environment
-  comment: 
-
-- name: Data analytics for engineers
-  name_url: https://educationguide.tue.nl/programs/bachelor-college/basic-courses/data-analytics-for-engineers/?L=2
+- name: Introduction to Problem Solving and Programming in Python (CIS 1051)
+  name_url: https://bulletin.temple.edu/courses/cis/
   year_start: 2023
   year_end: 
-  institution: TU/e
+  institution: Temple University
   type: bsc
-  code: 2IAB0
-  subheading: Basics of data analytics with Python
+  code: CIS 1051
+  subheading: I was TA of this course. This course introduces computer programming using Python, a computer language which is widely used in industry, scientific research, game programming and web applications. Students will learn how to design a program to solve a problem using procedural programming constructs such as loops, branching structures, and functions. Students will write programs that are testable (using assertions) and maintainable (using good programming style, naming conventions, indentation, and comments). Topics covered also include the general characteristics of computers, techniques of problem solving, and algorithm specification. Students are also introduced to software engineering practices, including unit testing techniques, debugging techniques, and version control management
   comment: 
-  
-- name: Conversational design with multi-modalities
-  name_url: https://tue.osiris-student.nl/#/onderwijscatalogus/extern/cursus?cursuscode=DCM220&collegejaar=2022
-  year_start: 2023
-  year_end: 
-  institution: TU/e
-  type: msc
-  code: DCM220
-  subheading: Focus on multi-modal feedback for automotive
-  comment:
-  

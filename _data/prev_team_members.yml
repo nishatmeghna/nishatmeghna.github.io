@@ -1,0 +1,82 @@
+- name: Khandakar Abdullah Al Mamun,PhD
+  photo: al-mamun.jpeg
+  info: Professor, CSE UIU, I worked with him in 2021-2022
+  email:  mamun@cse.uiu.ac.bd
+  website: https://www.kmamun.com/
+  number_educ: 2
+  education1: Postdoctoral Fellowship in Machine Learning, Biomedical and Rehabilitation Engineering from the University of Toronto, Canada
+  education2: PhD in Computer Science and Biomedical Engineering from the University of Southampton, UK.
+
+- name: Md. Farhad Hossain,PhD
+  photo: farhad-hossain.jpg
+  info: Professor, ECE, BUET , My Undergrad Supervisor, I worked with him in 2019-2021
+  email:  mfarhadhossain@eee.buet.ac.bd
+  website: https://mfarhadhossain.buet.ac.bd/
+  number_educ: 1
+  education1: PhD (Wireless Networking), MSc Engg. (EEE, BUET), BSc Engg. (EEE, BUET)   
+
+
+- name: Nabeel Mahammed,PhD
+  photo: nabeel-mahmud.jpeg
+  info: Associate Professor, ECE NSU, I worked with him in 2021-2022
+  email: nabeel.mohammed@northsouth.edu
+  website: http://ece.northsouth.edu/people/dr-nabeel-mohammed/
+  number_educ: 2
+  education1: PhD in Computer Science, Monash University, Australia
+  education2: BSc(Hons) in Computer Science, Monash University, Australia
+
+- name: Mohammad Nurul Huda, PhD
+  photo: nurul-huda.png
+  info: Professor, CSE UIU.
+  email: mnh@cse.uiu.ac.bd
+  website: https://cse.uiu.ac.bd/profiles/mnh/
+  number_educ: 2
+  education1: PhD in Computer Science, Toyohashi University of Technology, Aichi, Japan
+  education2: BSc(Hons) in Computer Science, Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh
+
+- name: Farhana Sarker,PhD
+  photo: farhana-sarkar.jpeg
+  info:  Assistant Professor and course coordinator of CSE, ULAB
+  email: farhana.sarkar@ulab.edu.bd
+  website: https://scholar.google.com/citations?user=2lgh3bMAAAAJ&hl=en
+  number_educ: 2
+  education1: PhD (October 2009 to January 2014) - Computer Science, University of Southampton, Southampton, UK.
+  education2: BSc (2000-2004)-Computer Science and Engineering, Darul Ihsan University, Dhaka, Bangladesh.
+
+
+- name: Shehan Irteza Pranto
+  photo: shehan-irteza.jpeg
+  info: Phd Student, I worked with him in 2022
+  email: exampleemail@gmail.com
+  website: https://scholar.google.com/citations?user=TbsaavYAAAAJ&hl=en
+  number_educ: 1
+  education1:  PhD. with Electrical and Computer Engineering, University of Alabama, Tuscaloosa, AL, USA
+
+- name: Md. Latifur Rahman
+  photo: latifur-rahman.jpeg
+  info: Undergrad Student, I worked with him in 2020-2022 during my thesis.
+  email: exampleemail@gmail.com
+  website: https://www.researchgate.net/profile/Md-Rahman-643
+  number_educ: 1
+  education1: B.Sc. with Electrical and Electronic Engineering, BUET.
+
+
+
+- name: Ahnaf Mozib Samin
+  photo: samin.jpg
+  info: Undergrad Researcher, woking with me 2022-2023
+  email: asamin9796@gmail.com
+  website: https://www.ahnafsamin.com/
+  number_educ: 1
+  education1: MSc Student, Erasmus Mundus Language and Communication Technologies (LCT), University of Groningen & University of Malta
+
+
+
+# - name: "This could be you !"
+#   photo: rock.jpg
+#   info: See <a href="www">openings</a> for more info
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:
+#   education4:

@@ -72,7 +72,7 @@ permalink: /about/
 ## Short biography
 
 <div class="short-bio">
-Rahad Arman Nabid is working as a research lead at Temple University HCI lab where he focus of Human-AI collaboration in the context of learning and just in time guidance. His works with Stephen MacNeil who is currently assistant professor at department of Computer and Information Science Department.
+Rahad Arman Nabid is working as a research lead at Temple University HCI lab where he focus of Human-AI collaboration in the context of learning and just in time guidance. His works with Stephen MacNeil who is currently assistant professor at department of Computer and Information Science Department. As a research lead my focus is to contribute on several projects as a team. During this summer we focus on submitting paper on top tire conference like - CHI, UIST, CHI, IUI. 
 </div>
 
 {% if site.data.awards %}
@@ -82,7 +82,6 @@ Rahad Arman Nabid is working as a research lead at Temple University HCI lab whe
   <div class="row" style="text-align:center; margin-bottom: 0px;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R5_zM3ZFNLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
-
 
 {% for award in site.data.awards %}
 {{ forloop.index }}. {% if award.name_url %}<a href="{{ award.name_url }}" target="_blank">{% endif %}<strong>{{ award.name }}</strong>{% if award.name_url %}</a>{% endif %} {% if award.organisation %} from {% if award.organisation_url %}<a href="{{ award.organisation_url }}" target="_blank">{% endif %} {{ award.organisation }}{% if award.organisation_url %}</a>{% endif %}{% endif %}{% if award.subtitle %}: {{ award.subtitle }}{% endif %} ({{ award.year }}).

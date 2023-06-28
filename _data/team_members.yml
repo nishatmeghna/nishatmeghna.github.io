@@ -1,18 +1,66 @@
-- name: Example student name
-  photo: rock.jpg
-  info: Postdoc, started Oct 2040
+- name: Enamul Hoque Prinec, PhD
+  photo: enamul-hoque.jpeg
+  info: Assistant Professor, Computer Science Department, York University
+  email: enamulh@yorku.ca
+  website: http://www.yorku.ca/enamulh/
+  number_educ: 2
+  education1: Postdoctoral scholar, Department of Computer Science, Stanford University, USA
+  education2: PhD in Computer Science, University of British Columbia (UBC), Canada
+
+
+- name: Nafis Tahmid Chowdhury
+  photo: nafis-tahmid-chowdhury.jpg
+  info: MSc, started January 2023
   email: exampleemail@gmail.com
   website: https://website.com
   number_educ: 2
-  education1: Postdoc with <a href="w">XYZ</a>, Harvard University
-  education2: Ph.D. with <a href="w">XYZ</a>, X University
+  education1: MSc. with Computer Science, <a href="https://futurestudents.yorku.ca/program/computer-science">  York University </a>
+  education2: BSc. with Computer Science and Engineering, <a href="https://cse.buet.ac.bd/"> BUET </a>
+
+- name: Parth Patel
+  photo: parth-patel.jpeg
+  info: Undergrad Researcher, woking with me 2022-2023
+  email: exampleemail@gmail.com
+  website: https://website.com
+  number_educ: 1
+  education1: B.Sc. with Computer and Information Science, <a href="https://cis.temple.edu/">Temple University</a>
 
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="www">openings</a> for more info
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+- name: Ben Smolin
+  photo: ben-smolin.webp
+  info: Undergrad Researcher, worked with me in 2022
+  email: exampleemail@gmail.com
+  website: https://website.com
+  number_educ: 1
+  education1:  B.Sc. with Computer and Information Science, <a href="https://cis.temple.edu/">Temple University</a>
+
+
+- name: Sydney Kimbell
+  photo: sydney-kimbell.jpeg
+  info: Undergrad Researcher, woking with me 2022-2023
+  email: exampleemail@gmail.com
+  website: https://website.com
+  number_educ: 1
+  education1: B.Sc. with Computer and Information Science, <a href="https://cis.temple.edu/">Temple University</a>
+
+
+- name: Elle Nguyen
+  photo: elle-nguyen.jpeg
+  info: Undergrad Researcher, woking with me 2022-2023
+  email: exampleemail@gmail.com
+  website: https://website.com
+  number_educ: 1
+  education1: B.Sc. with Computer and Information Science, <a href="https://cis.temple.edu/">Temple University</a>
+
+
+
+
+
+# - name: "This could be you !"
+#   photo: rock.jpg
+#   info: See <a href="www">openings</a> for more info
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:
+#   education4:
