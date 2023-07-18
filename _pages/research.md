@@ -156,10 +156,10 @@ Demo of Expert-Goggles (EG) prototype tools.
 </div>
 
 <div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/gifs/eg.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
+  <img src="{{ site.url }}{{ site.baseurl }}/gifs/attendence_system.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 300px; height: 350px" />
   <h4>Smart Attendence System</h4>
 
- Students attendance have been considered as one of the crucial elements or issues that reflects the
+Students attendance have been considered as one of the crucial elements or issues that reflects the
 academic achievements and the performance contributed to any university compared to the
 traditional methods that impose time-consuming and inefficiency. Diverse automatic identification
 technologies have been more in vogue such as Radio Frequency Identification (RFID). RFID is a
@@ -178,11 +178,48 @@ data.
 
 
 <div align= center>
-<iframe width="760" height="315" src="https://www.youtube.com/embed/2cVn0b5fN64?playlist=2cVn0b5fN64&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
-Demo of Expert-Goggles (EG) prototype tools.
+
+
 
 </div>
   <ul style="overflow: hidden">
   </ul>
 </div>
+
+
+
+
+
+<div class="rowl1">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/online_interactions.png" class="img-responsive" style="float: left; border-radius: 5px; width: 450px; height: 300px" />
+<h4>Understanding Community Interaction in Online Group POSTs: Enhancing Moderation Efficiency</h4>
+
+Graph theory, a fundamental principle of network theory, provides an explanation for community interaction
+among various groups online. These online social media groups create network structures consisting of nodes
+and edges to promote community interaction, networking, support, advocacy, branding, and information
+sharing. Effective moderation is crucial to discourage inappropriate behavior such as harassment and spamming,
+promote respectful discourse and diverse perspectives, and prevent the dissemination of harmful or misleading
+rumors and false information. However, moderation of a large number of posts and comments is time-
+consuming and requires significant effort from administrators and moderators, who must understand the
+context of each post. Additionally, token-based semantic moderation techniques may mistakenly remove or
+mute users without considering the context and relationships among users. In this study, we have identified
+key features, including structural, statistical, and community features that indicate community interaction
+conflicts in online group posts. To address these behavioral patterns, we have proposed a network science
+theory called "Unbalanced Structure Theory on Directed Multi Edge Weight Graph" for moderating conflict
+and toxic behavior in online communities. We also proposed the concept of "community interaction entropy,"
+which calculates community sentiment based on interaction and modifies the node centrality of different
+communities to determine overall conflicts. Finally, we evaluated the "Unbalanced Structure Theory on
+Directed Multi Edge Weight Graph" on specific Facebook group posts.
+
+
+
+ 
+<div align= center>
+
+
+</div>
+
+
+</div>
+  <ul style="overflow: hidden">
+  </ul>

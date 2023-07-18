@@ -122,7 +122,7 @@ Currently I am are working with professor [Enamul Hoque Price](http://www.yorku.
 {% endif %}
 
 
-## Alumni
+## Previous Team Members
 {% assign number_printed = 0 %}
 {% for member in site.data.prev_team_members %}
 
