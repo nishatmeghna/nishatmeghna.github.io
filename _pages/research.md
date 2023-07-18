@@ -8,48 +8,150 @@ permalink: /research/
 # Research
 
 <div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research/multi_user_communication.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
-  <h4>Multi-user communication in traffic</h4>
-  
-  I am currently engaged in research on communication between multiple automated vehicles and multiple vulnerable road users. Most of experiments in current research features 1, maybe 2, human participants. But, think about driving around a town in real life. Traffic situations are very complicated. And being able to perform experiments with 3, 4, ..., 16 participants is essential for understanding the mechanics of communication of situation awareness/collaborative decision making/collaboration in both modern and future traffic. To enable such research, I present [an open-source simulator](https://github.com/bazilinskyy/coupled-sim) supporting a virtually unlimited number of human participants and fine-tuned for high precision data logging. It is aimed for, but not limited to, academic research.
+  <img src="{{ site.url }}{{ site.baseurl }}/gifs/eg.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
+  <h4>Expert Goggles</h4>
 
-  <div class="row" style="text-align:center; margin-bottom: 0px;">
-  <iframe style="display:inline-block; border-radius: 5px; border:0px solid #FFF; width: 97%; height: 358px" src="https://www.youtube.com/embed/W2VWLYnTYrM?playlist=W2VWLYnTYrM&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
+ This research project introduces the Learner Driven Approach, previously known as Expert Goggles, as a solution to address the challenge of interpreting complex data visualizations online. Not everyone possesses the necessary data literacy skills to effectively understand these visualizations. The approach offers just-in-time guidance to assist non-experts in interpreting web-based visualizations, aiming to transform everyday experiences into informal learning opportunities. The project explores different expert processes for automatically detecting the context and providing timely support. It also involves comparing various methods of delivering just-in-time learning opportunities to students. The Expert Goggles tool is highlighted as a tool that provides interactive guidance and multiple interactions to aid in the interpretation of data visualizations.
+
+ 
+<div align= center>
+<iframe width="560" height="250" src="https://www.youtube.com/embed/2cVn0b5fN64?playlist=2cVn0b5fN64&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
-  Demo of [coupled simulator](https://github.com/bazilinskyy/coupled-sim) with 3 agents in the same traffic scene. One agents is wearing a motion suit and one a head-mounted display.
-  </div>
+Demo of Expert-Goggles (EG) prototype tools.
+
+</div>
   <ul style="overflow: hidden">
   </ul>
 </div>
 
-<div class="rowl1">
-  <div class="img-responsive" style="margin-top: 15px; margin-right: 19px; float: left"><iframe src="https://www.youtube.com/embed/ZroKe9dKQvs?playlist=ZroKe9dKQvs&loop=1&autoplay=1&mute=1" style="width: 280px; height: 158px; border-radius: 5px" frameborder="0" allowfullscreen></iframe></div>
 
-  <h4>Crowdsourced Human Factors experiments</h4>
-  
-  During my PhD on Human Factors, I was astonished to realised that the majority of research features features a sample of <i>"10 white male highly educated students from Europe with an average age of 21.5 years"</i>. I thought that it was not a right way to design and develop systems, which primary function is to save lives and be used by the public (especially in developing countries, which are impacted the most by unsafe traffic). I launched my first [study](/publications/bazilinskyy2015auditory.pdf) using a novel method of crowdsourcing already in the 2nd month of my PhD project. 1,205 respondents from 91 countries expressed their opinions about current and hypothetical auditory interfaces. In another [study](/publications/bazilinskyy2017analyzing.pdf), I implemented synthesised speech in a crowdsourcing survey—an innovative approach, as most researchers in the domain focus on non-speech feedback. I developed a new framework to reliably present stimuli to participants online and replicated several well-established studies but with a much larger sample size of 2669 participants from 95 countries. Then, I developed a JavaScript framework based on the [jsPsych project](https://www.jspsych.org/7.0/) for accurate online measurements of reaction times and asking 20000 participants to react to 176 trials featuring [auditory, visual, and multimodal stimuli](/publications/bazilinskyy2018crowdsourced.pdf). Then, I adapted the [TurkEyes](https://turkeyes.mit.edu) library to receive accurate measurement of eye gazes from a browser without any eye trackers (see video on the left for a demonstration of animated heatmaps of 2000 pedestrians looking at 107 traffic scenes with different exposure times in a recent [study](/publications/bazilinskyy2021visual.pdf)). I also published the [source code with an extendable framework](https://github.com/bazilinskyy/gazes-crowdsourced) for crowdsourced recording of eye gazes. Such code can be used in combination with [accurate measurement of keypresses](https://github.com/bazilinskyy/crossing-crowdsourcing). Being able to conduct crowdsourced research proved to be especially useful during the pandemic.
-
-  <ul style="overflow: hidden">
-  </ul>
-</div>
 
 <div class="rowl1">
-  <div class="img-responsive" style="margin-top: 15px; margin-right: 19px; float: left"><iframe src="https://www.youtube.com/embed/isjbqXs2g7k?playlist=isjbqXs2g7k&loop=1&autoplay=1&mute=1" style="width: 280px; height: 158px; border-radius: 5px" frameborder="0" allowfullscreen></iframe></div>
+  <img src="{{ site.url }}{{ site.baseurl }}/gifs/pg.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
+  <h4>PiggyBack Learning</h4>
 
-  <h4>Portable sensor to collect information on the state of the traffic environment</h4>
-
-  During my work at SD-Insights, I developed a portable sensor to collect information on the state of the environment called NEXTeye. It is based on [Mapbox Vision SDK](https://www.mapbox.com/vision) and [NVIDIA Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit). The sensor is plug-n-play, retrieves vehicle dynamics data, and performs real-time scene segmentation and object detection. The portability of NEXTeye allows its use not only inside of a car, but also as a wearable by vulnerable road users. Multiple such sensors can be connected and synchronised.
+For young children, educational programming is an opportunity to engage with learning concepts in fun and entertaining ways. In the US, the Federal Communications Commission enforces cable providers to reserve X time for educational materials; however, no such restrictions exist on popular platforms like YouTube or TikTok.  . We introduce the concept of “Piggyback Learning” which creates educational materials on top of existing non-educational content.  Our system XXX will extract content such as subtitles and objects of interest from videos to construct comprehension quizzes and other learning activities automatically. Primarily, PBL focuses on extracting different objects, behaviors, words, and basic maths to correlate with real-life context by creating different interactive learning materials.
 
   <ul style="overflow: hidden">
   </ul>
 </div>
 
-<div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research/auditory_feedback_ad.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
-  <h4>Auditory feedback for automated driving</h4>
-  
-  My intrinsic motivation to do a PhD stemmed from the fact that automated vehicles have the potential to prevent virtually all road fatalities. To achieve that, automated vehicles must collaborate with humans inside and outside the vehicle. During [my PhD](/publications/bazilinskyy2018auditoryinterface.pdf) I focused on auditory feedback for automated driving. With on-road and driving simulator studies, I showed that multimodal feedback that takes the urgency of the traffic situation into account could support AV-driver collaboration effectively.
 
+
+<div class="rowl1">
+
+<h4>Hit the Rabbit Game</h4>
+"Hit the Rabbit" was a project I worked on during my undergraduate studies in the Digital Logic Design (DLD) lab. The project involved constructing a game using basic integrated circuits (ICs). The objective of the game was to hit the blinking LED with a switch to earn points. If a player missed or pressed the wrong blinking light, their score would be deducted. To implement the game, we utilized various components such as a random number generator, pulse generator, one-hot decoder, NOR gates, addition blocks, buffer circuit, point subtraction and calculation block, decoder, and seven-segment displays. These components were combined to create the entire system for the game.
+<div align= center>
+<iframe width="560" height="250" src="https://www.youtube.com/embed/F_nqex_MYMY?playlist=F_nqex_MYMY&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
+Demo of Hit the Rabbit Game with Basic ICs.
+
+</div>
+  <ul style="overflow: hidden">
+  </ul>
+</div>
+
+<div class="rowl1">
+<iframe width="280px" height="158px" src="https://www.youtube.com/embed/2cVn0b5fN64?playlist=2cVn0b5fN64&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <h4>AI Reception</h4>
+
+ This research project introduces the Learner Driven Approach, previously known as Expert Goggles, as a solution to address the challenge of interpreting complex data visualizations online. Not everyone possesses the necessary data literacy skills to effectively understand these visualizations. The approach offers just-in-time guidance to assist non-experts in interpreting web-based visualizations, aiming to transform everyday experiences into informal learning opportunities. The project explores different expert processes for automatically detecting the context and providing timely support. It also involves comparing various methods of delivering just-in-time learning opportunities to students. The Expert Goggles tool is highlighted as a tool that provides interactive guidance and multiple interactions to aid in the interpretation of data visualizations.
+
+ 
+<div align= center>
+<iframe width="760" height="315" src="https://www.youtube.com/embed/2cVn0b5fN64?playlist=2cVn0b5fN64&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
+Demo of Expert-Goggles (EG) prototype tools.
+
+</div>
+  <ul style="overflow: hidden">
+  </ul>
+</div>
+
+
+
+
+<div class="rowl1">
+  <img src="{{ site.url }}{{ site.baseurl }}/gifs/eg.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
+  <h4>Osteosarcoma Tumor Detection</h4>
+
+ This research project introduces the Learner Driven Approach, previously known as Expert Goggles, as a solution to address the challenge of interpreting complex data visualizations online. Not everyone possesses the necessary data literacy skills to effectively understand these visualizations. The approach offers just-in-time guidance to assist non-experts in interpreting web-based visualizations, aiming to transform everyday experiences into informal learning opportunities. The project explores different expert processes for automatically detecting the context and providing timely support. It also involves comparing various methods of delivering just-in-time learning opportunities to students. The Expert Goggles tool is highlighted as a tool that provides interactive guidance and multiple interactions to aid in the interpretation of data visualizations.
+
+ 
+<div align= center>
+<iframe width="760" height="315" src="https://www.youtube.com/embed/2cVn0b5fN64?playlist=2cVn0b5fN64&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
+Demo of Expert-Goggles (EG) prototype tools.
+
+</div>
+  <ul style="overflow: hidden">
+  </ul>
+</div>
+
+
+<div class="rowl1">
+  <img src="{{ site.url }}{{ site.baseurl }}/gifs/eg.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
+  <h4>Visual Light Communication</h4>
+
+ This research project introduces the Learner Driven Approach, previously known as Expert Goggles, as a solution to address the challenge of interpreting complex data visualizations online. Not everyone possesses the necessary data literacy skills to effectively understand these visualizations. The approach offers just-in-time guidance to assist non-experts in interpreting web-based visualizations, aiming to transform everyday experiences into informal learning opportunities. The project explores different expert processes for automatically detecting the context and providing timely support. It also involves comparing various methods of delivering just-in-time learning opportunities to students. The Expert Goggles tool is highlighted as a tool that provides interactive guidance and multiple interactions to aid in the interpretation of data visualizations.
+
+ 
+<div align= center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mr_1tCcl05w?playlist=Mr_1tCcl05w&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
+Demo of Expert-Goggles (EG) prototype tools.
+
+</div>
+  <ul style="overflow: hidden">
+  </ul>
+</div>
+
+
+<div class="rowl1">
+  <img src="{{ site.url }}{{ site.baseurl }}/gifs/bangla-sign.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
+  <h4>Bangla Sign Language Detection</h4>
+
+Sign language is the best way of communication for the specialized people who lack the power of hear. Every country has a sign language of its own. Hence, it is not possible for deaf people living in Bangladesh to understand the sign language of other countries. This article represents a method of translating English (British) sign language to Bengali Sign Language using basic digital signal processing and machine learning techniques. In this study MATLAB has been used through every procedures made.
+
+ 
+
+
+</div>
+  <ul style="overflow: hidden">
+  </ul>
+</div>
+
+<div class="rowl1">
+  <img src="{{ site.url }}{{ site.baseurl }}/gifs/eg.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
+  <h4>Pneumonia Detection from Chest X-ray</h4>
+
+ This research project introduces the Learner Driven Approach, previously known as Expert Goggles, as a solution to address the challenge of interpreting complex data visualizations online. Not everyone possesses the necessary data literacy skills to effectively understand these visualizations. The approach offers just-in-time guidance to assist non-experts in interpreting web-based visualizations, aiming to transform everyday experiences into informal learning opportunities. The project explores different expert processes for automatically detecting the context and providing timely support. It also involves comparing various methods of delivering just-in-time learning opportunities to students. The Expert Goggles tool is highlighted as a tool that provides interactive guidance and multiple interactions to aid in the interpretation of data visualizations.
+
+ 
+<div align= center>
+<iframe width="760" height="315" src="https://www.youtube.com/embed/2cVn0b5fN64?playlist=2cVn0b5fN64&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
+Demo of Expert-Goggles (EG) prototype tools.
+
+</div>
+  <ul style="overflow: hidden">
+  </ul>
+</div>
+
+<div class="rowl1">
+  <img src="{{ site.url }}{{ site.baseurl }}/gifs/eg.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
+  <h4>Smart Attendence System</h4>
+
+ This research project introduces the Learner Driven Approach, previously known as Expert Goggles, as a solution to address the challenge of interpreting complex data visualizations online. Not everyone possesses the necessary data literacy skills to effectively understand these visualizations. The approach offers just-in-time guidance to assist non-experts in interpreting web-based visualizations, aiming to transform everyday experiences into informal learning opportunities. The project explores different expert processes for automatically detecting the context and providing timely support. It also involves comparing various methods of delivering just-in-time learning opportunities to students. The Expert Goggles tool is highlighted as a tool that provides interactive guidance and multiple interactions to aid in the interpretation of data visualizations.
+
+ 
+<div align= center>
+<iframe width="760" height="315" src="https://www.youtube.com/embed/2cVn0b5fN64?playlist=2cVn0b5fN64&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
+Demo of Expert-Goggles (EG) prototype tools.
+
+</div>
   <ul style="overflow: hidden">
   </ul>
 </div>
