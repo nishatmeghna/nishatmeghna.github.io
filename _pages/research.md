@@ -39,6 +39,43 @@ For young children, educational programming is an opportunity to engage with lea
 
 
 <div class="rowl1">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/online_interactions.png" class="img-responsive" style="float: left; border-radius: 5px; width: 450px; height: 300px" />
+<h4>Understanding Community Interaction in Online Group POSTs: Enhancing Moderation Efficiency</h4>
+
+Graph theory, a fundamental principle of network theory, provides an explanation for community interaction
+among various groups online. These online social media groups create network structures consisting of nodes
+and edges to promote community interaction, networking, support, advocacy, branding, and information
+sharing. Effective moderation is crucial to discourage inappropriate behavior such as harassment and spamming,
+promote respectful discourse and diverse perspectives, and prevent the dissemination of harmful or misleading
+rumors and false information. However, moderation of a large number of posts and comments is time-
+consuming and requires significant effort from administrators and moderators, who must understand the
+context of each post. Additionally, token-based semantic moderation techniques may mistakenly remove or
+mute users without considering the context and relationships among users. In this study, we have identified
+key features, including structural, statistical, and community features that indicate community interaction
+conflicts in online group posts. To address these behavioral patterns, we have proposed a network science
+theory called "Unbalanced Structure Theory on Directed Multi Edge Weight Graph" for moderating conflict
+and toxic behavior in online communities. We also proposed the concept of "community interaction entropy,"
+which calculates community sentiment based on interaction and modifies the node centrality of different
+communities to determine overall conflicts. Finally, we evaluated the "Unbalanced Structure Theory on
+Directed Multi Edge Weight Graph" on specific Facebook group posts.
+
+
+
+ 
+<div align= center>
+
+
+</div>
+
+
+</div>
+  <ul style="overflow: hidden">
+</ul>
+
+
+
+
+<div class="rowl1">
 
 <h4>Hit the Rabbit Game</h4>
 "Hit the Rabbit" was a project I worked on during my undergraduate studies in the Digital Logic Design (DLD) lab. The project involved constructing a game using basic integrated circuits (ICs). The objective of the game was to hit the blinking LED with a switch to earn points. If a player missed or pressed the wrong blinking light, their score would be deducted. To implement the game, we utilized various components such as a random number generator, pulse generator, one-hot decoder, NOR gates, addition blocks, buffer circuit, point subtraction and calculation block, decoder, and seven-segment displays. These components were combined to create the entire system for the game.
@@ -190,36 +227,3 @@ data.
 
 
 
-<div class="rowl1">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/online_interactions.png" class="img-responsive" style="float: left; border-radius: 5px; width: 450px; height: 300px" />
-<h4>Understanding Community Interaction in Online Group POSTs: Enhancing Moderation Efficiency</h4>
-
-Graph theory, a fundamental principle of network theory, provides an explanation for community interaction
-among various groups online. These online social media groups create network structures consisting of nodes
-and edges to promote community interaction, networking, support, advocacy, branding, and information
-sharing. Effective moderation is crucial to discourage inappropriate behavior such as harassment and spamming,
-promote respectful discourse and diverse perspectives, and prevent the dissemination of harmful or misleading
-rumors and false information. However, moderation of a large number of posts and comments is time-
-consuming and requires significant effort from administrators and moderators, who must understand the
-context of each post. Additionally, token-based semantic moderation techniques may mistakenly remove or
-mute users without considering the context and relationships among users. In this study, we have identified
-key features, including structural, statistical, and community features that indicate community interaction
-conflicts in online group posts. To address these behavioral patterns, we have proposed a network science
-theory called "Unbalanced Structure Theory on Directed Multi Edge Weight Graph" for moderating conflict
-and toxic behavior in online communities. We also proposed the concept of "community interaction entropy,"
-which calculates community sentiment based on interaction and modifies the node centrality of different
-communities to determine overall conflicts. Finally, we evaluated the "Unbalanced Structure Theory on
-Directed Multi Edge Weight Graph" on specific Facebook group posts.
-
-
-
- 
-<div align= center>
-
-
-</div>
-
-
-</div>
-  <ul style="overflow: hidden">
-  </ul>
