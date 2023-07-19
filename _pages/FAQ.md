@@ -15,7 +15,7 @@ I have a deep passion for traveling, and it has become a habit for me to explore
 
 There are still many more places I aspire to visit, but I don't feel compelled to rush and check off every destination on my list. Instead, I view traveling as a means to unwind and relax after periods of intense work.
 
-[Read more about my travel](/ua).
+<!-- [Read more about my travel](/ua). -->
 
   <ul style="overflow: hidden">
   </ul>
