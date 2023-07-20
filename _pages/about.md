@@ -80,7 +80,7 @@ Rahad Arman Nabid is working as a research lead at Temple University HCI lab whe
 <div class="rowl1" style="padding-top: 10px;">
 
   <div class="row" style="text-align:center; margin-bottom: 0px;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R5_zM3ZFNLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R5_zM3ZFNLo?playlist=R5_zM3ZFNLo&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
 
 {% for award in site.data.awards %}
