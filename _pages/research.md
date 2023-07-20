@@ -176,16 +176,36 @@ Sign language is the best way of communication for the specialized people who la
 
 
 <div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/gifs/eg.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
+  <img src="{{ site.url }}{{ site.baseurl }}/gifs/pneumonia_detection.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 350px; height: 350px" />
   <h4>Pneumonia Detection from Chest X-ray</h4>
 
- This research project introduces the Learner Driven Approach, previously known as Expert Goggles, as a solution to address the challenge of interpreting complex data visualizations online. Not everyone possesses the necessary data literacy skills to effectively understand these visualizations. The approach offers just-in-time guidance to assist non-experts in interpreting web-based visualizations, aiming to transform everyday experiences into informal learning opportunities. The project explores different expert processes for automatically detecting the context and providing timely support. It also involves comparing various methods of delivering just-in-time learning opportunities to students. The Expert Goggles tool is highlighted as a tool that provides interactive guidance and multiple interactions to aid in the interpretation of data visualizations.
+ Pneumonia is one of the most common infectious
+diseases in the lungs especially attacked infant and elderly people
+which causing cough with phlegm or pus, fever, chills, difficulty
+breathing, fill lungs with pus, and sometimes leads to deaths in
+some case. In Bangladesh, pneumonia is responsible for around
+28% of the deaths of children under five years of age. Around
+50,000 children die of pneumonia every year because of not
+having proper medical doctors, especially in rural areas. But
+early detection can help to prevent this disease. Developing a
+device to detect pneumonia in a rapid and non-invasive way,
+which will be affordable for Bangladeshi people is our aim.
+Helping medical professionals to detect pneumonia early to
+facilitate the treatment of the patients is our motivation. That
+why an affordable, rapid detection model is designed. In our
+device, we used machine learning techniques using a non-invasive
+technique method by collecting x-ray images, spo2 level along
+with clinical symptoms that can help to detect pneumonia in
+absence of a doctor. Moreover, only an x-ray or only spo2 can
+not specify a pneumonia patient. But our model takes all the info
+and is gathered in machine learning model to detect the chance
+of having pneumonia with great accuracy with respect to other
+proposed models
 
  
 <div align= center>
-<iframe width="760" height="315" src="https://www.youtube.com/embed/2cVn0b5fN64?playlist=2cVn0b5fN64&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
-Demo of Expert-Goggles (EG) prototype tools.
+
+
 
 </div>
   <ul style="overflow: hidden">
