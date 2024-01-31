@@ -75,19 +75,36 @@ permalink: /about/
 Rahad Arman Nabid is working as a research lead at Temple University HCI lab where he focus of Human-AI collaboration in the context of learning and just in time guidance. His works with Stephen MacNeil who is currently assistant professor at department of Computer and Information Science Department. As a research lead my focus is to contribute on several projects as a team. During this summer we focus on submitting paper on top tire conference like - CHI, UIST, CHI, IUI. 
 </div>
 
+
 {% if site.data.awards %}
 ## Awards
 <div class="rowl1" style="padding-top: 10px;">
 
-  <div class="row" style="text-align:center; margin-bottom: 0px;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R5_zM3ZFNLo?playlist=R5_zM3ZFNLo&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  </div>
 
 {% for award in site.data.awards %}
 {{ forloop.index }}. {% if award.name_url %}<a href="{{ award.name_url }}" target="_blank">{% endif %}<strong>{{ award.name }}</strong>{% if award.name_url %}</a>{% endif %} {% if award.organisation %} from {% if award.organisation_url %}<a href="{{ award.organisation_url }}" target="_blank">{% endif %} {{ award.organisation }}{% if award.organisation_url %}</a>{% endif %}{% endif %}{% if award.subtitle %}: {{ award.subtitle }}{% endif %} ({{ award.year }}).
 {% endfor %}
 </div>
 {% endif %}
+
+#### I'm thrilled to have been showcased on the Temple CIS website for receiving the Graduate Teaching Assistantship Award! 🎓✨
+<div class="rowl1" style="padding-left: 200px;">
+<div class="row" style="text-align:left; margin-bottom: 0px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/awards/TAaward.jpeg" class="img-responsive" style="float: center; border-radius: 5px; width: 580px; height: 600px" />
+</div>
+</div>
+
+
+
+#### This is a live video clip capturing the moment of receiving an award from the Minister of ICT in Bangladesh during the IC4IR competition. 🏆
+<div class="rowl1" style="padding-top: 10px;">
+<div class="row" style="text-align:center; margin-bottom: 0px;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R5_zM3ZFNLo?playlist=R5_zM3ZFNLo&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+
+
 
 {% if site.data.grants %}
 ## Grants

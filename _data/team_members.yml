@@ -17,6 +17,34 @@
   education1: MSc. with Computer Science, <a href="https://futurestudents.yorku.ca/program/computer-science">  York University </a>
   education2: BSc. with Computer Science and Engineering, <a href="https://cse.buet.ac.bd/"> BUET </a>
 
+
+- name: Sydney Kimbell
+  photo: sydney-kimbell.jpeg
+  info: Undergrad Researcher, woking with me 2022-2023
+  email: sydney.kimbell@temple.edu
+  website: https://www.linkedin.com/in/sydney-kimbell/
+  number_educ: 1
+  education1: B.Sc. with Computer and Information Science, <a href="https://cis.temple.edu/">Temple University</a>
+
+
+
+- name: Abdulrahman Alshehri
+  photo: abdulrahman.jpeg
+  info: Undergrad Researcher, woking with me 2023-2024
+  email: a.shehri@temple.edu
+  website: https://www.linkedin.com/in/a-shehri/
+  number_educ: 1
+  education1: B.Sc. with Electrical and Electronic Engineering, <a href="https://cis.temple.edu/">Temple University</a>
+
+
+- name: Sayantan Kundu
+  photo: sayantan.jpeg
+  info: MSc, woking with in our team on Expert Process project in Spring 2024
+  email: sayantan.kundu@temple.edu
+  website: https://www.linkedin.com/in/sayantan-kundu-sk1611/
+  number_educ: 1
+  education1: M.Sc. with Computer and Information Science, <a href="https://cis.temple.edu/">Temple University</a>
+
 - name: Parth Patel
   photo: parth-patel.jpeg
   info: Undergrad Researcher, woking with me 2022-2023
@@ -29,19 +57,11 @@
 - name: Ben Smolin
   photo: ben-smolin.webp
   info: Undergrad Researcher, worked with me in 2022
-  email: exampleemail@gmail.com
-  website: https://website.com
+  email: ben.smolin@temple.edu
+  website: https://www.linkedin.com/in/benjamin-smolin/
   number_educ: 1
   education1:  B.Sc. with Computer and Information Science, <a href="https://cis.temple.edu/">Temple University</a>
 
-
-- name: Sydney Kimbell
-  photo: sydney-kimbell.jpeg
-  info: Undergrad Researcher, woking with me 2022-2023
-  email: exampleemail@gmail.com
-  website: https://website.com
-  number_educ: 1
-  education1: B.Sc. with Computer and Information Science, <a href="https://cis.temple.edu/">Temple University</a>
 
 
 - name: Elle Nguyen

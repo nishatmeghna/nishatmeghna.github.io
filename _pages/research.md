@@ -38,6 +38,46 @@ For young children, educational programming is an opportunity to engage with lea
 
 
 
+
+
+<div class="rowl1">
+
+<h4>AI Reception</h4>
+
+ Artificial Intelligence enabled automated reception to perform as a human receptionist to avoid face-to-face interaction among mass people regarding their daily service in the current pandemic. Inspired by their current problem of mass congestion, our proposed AI-based Smart Reception can authenticate users and interact in Bangla language with humans by responding to university-domain-related queries, resulting in better business service and outcomes. We used OpenFace face recognition for authentication, having an accuracy of 92.92% with 1×10−5 second training time for a new image by saving the image dataset as a collection of an array file. The Interaction Recognition system consists of three modules: Automatic Speech Recognition (ASR), Interactive Agent, and Text-to-Speech (TTS) Synthesis. We used the OpenSLR- Large Bengali ASR Training Data to train the Deep Speech 2 model for ASR with a Word Error Rate (WER) of 42.15%. We tested our developed database management architecture for the Interaction Recognition system with the three-step evaluation using BERT sentence transformer (paraphrase-mpnet-base-v2) that provided satisfactory responses with 92% accuracy, increasing the receptionist performance significantly. TTS module relays on WavNet gTTS model. Our research also demonstrated that a developed AI-based system could be an adaptive solution for any domain-specific reception system responsible for systematic and efficient customer service offline and online.
+
+ 
+<div align= center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kHLy8ZOJ73U?playlist=kHLy8ZOJ73U&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
+Demo of Expert-Goggles (EG) prototype tools.
+
+</div>
+  <ul style="overflow: hidden">
+  </ul>
+</div>
+
+
+
+
+<div class="rowl1">
+  <img src="{{ site.url }}{{ site.baseurl }}/gifs/osteosarcoma.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
+  <h4>Osteosarcoma Tumor Detection</h4>
+
+Osteosarcoma is an osseous tumor that occurs in the metaphyseal area around the knee accounts for roughly 20% of bone cancers mostly affects patients younger than 20 years. Early diagnosis of osteosarcoma cancer can pave the way for an unlimited choice of therapy opportunities. Moreover, pathological estimation of necrosis and tumor cells determines the future intensity of chemotherapy radiation to apply to patient. The biopsy confirms the diagnosis and divulges the grade of the tumor, necrotic, and non-tumor cells. Due to a lack of radiologists in third world countries like Bangladesh, it is extremely difficult to diagnose cancer in the early stage. Moreover, to identify the chemotherapy effect during the chemotherapy period, multiple radiologists are required which is quite expensive for most cancer hospitals. In this paper, a Sequential Recurrent Convolutional Neural Network (RCNN) model consisting of CNN and bidirectional Gated Recurrent Units (GRU) is proposed, which performs exceptionally well with small numbers of histopathological osteosarcoma Haematoxylin and Eosin (H & E) stained images despite having the over-fitting problem, heterogeneity, intra-class variation, inter-class similarity, crowded context, the irregular shape of the nucleus and noisy data. Performance of the is compared with that of AlexNet, ResNet50, VGG16, LeNet and SVM models with the histopathological image dataset on osteosarcoma.
+
+ 
+<div align= center>
+
+  
+
+</div>
+  <ul style="overflow: hidden">
+  </ul>
+</div>
+
+
+# Projects
 <div class="rowl1">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/online_interactions.png" class="img-responsive" style="float: left; border-radius: 5px; width: 450px; height: 300px" />
 <h4>Understanding Community Interaction in Online Group POSTs: Enhancing Moderation Efficiency</h4>
@@ -84,22 +124,7 @@ Directed Multi Edge Weight Graph" on specific Facebook group posts.
   
 Demo of Hit the Rabbit Game with Basic ICs.
 
-</div>
-  <ul style="overflow: hidden">
-  </ul>
-</div>
 
-<div class="rowl1">
-
-  <h4>AI Reception</h4>
-
- Artificial Intelligence enabled automated reception to perform as a human receptionist to avoid face-to-face interaction among mass people regarding their daily service in the current pandemic. Inspired by their current problem of mass congestion, our proposed AI-based Smart Reception can authenticate users and interact in Bangla language with humans by responding to university-domain-related queries, resulting in better business service and outcomes. We used OpenFace face recognition for authentication, having an accuracy of 92.92% with 1×10−5 second training time for a new image by saving the image dataset as a collection of an array file. The Interaction Recognition system consists of three modules: Automatic Speech Recognition (ASR), Interactive Agent, and Text-to-Speech (TTS) Synthesis. We used the OpenSLR- Large Bengali ASR Training Data to train the Deep Speech 2 model for ASR with a Word Error Rate (WER) of 42.15%. We tested our developed database management architecture for the Interaction Recognition system with the three-step evaluation using BERT sentence transformer (paraphrase-mpnet-base-v2) that provided satisfactory responses with 92% accuracy, increasing the receptionist performance significantly. TTS module relays on WavNet gTTS model. Our research also demonstrated that a developed AI-based system could be an adaptive solution for any domain-specific reception system responsible for systematic and efficient customer service offline and online.
-
- 
-<div align= center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kHLy8ZOJ73U?playlist=kHLy8ZOJ73U&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
-Demo of Expert-Goggles (EG) prototype tools.
 
 </div>
   <ul style="overflow: hidden">
@@ -108,17 +133,34 @@ Demo of Expert-Goggles (EG) prototype tools.
 
 
 
-
 <div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/gifs/osteosarcoma.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
-  <h4>Osteosarcoma Tumor Detection</h4>
 
-Osteosarcoma is an osseous tumor that occurs in the metaphyseal area around the knee accounts for roughly 20% of bone cancers mostly affects patients younger than 20 years. Early diagnosis of osteosarcoma cancer can pave the way for an unlimited choice of therapy opportunities. Moreover, pathological estimation of necrosis and tumor cells determines the future intensity of chemotherapy radiation to apply to patient. The biopsy confirms the diagnosis and divulges the grade of the tumor, necrotic, and non-tumor cells. Due to a lack of radiologists in third world countries like Bangladesh, it is extremely difficult to diagnose cancer in the early stage. Moreover, to identify the chemotherapy effect during the chemotherapy period, multiple radiologists are required which is quite expensive for most cancer hospitals. In this paper, a Sequential Recurrent Convolutional Neural Network (RCNN) model consisting of CNN and bidirectional Gated Recurrent Units (GRU) is proposed, which performs exceptionally well with small numbers of histopathological osteosarcoma Haematoxylin and Eosin (H & E) stained images despite having the over-fitting problem, heterogeneity, intra-class variation, inter-class similarity, crowded context, the irregular shape of the nucleus and noisy data. Performance of the is compared with that of AlexNet, ResNet50, VGG16, LeNet and SVM models with the histopathological image dataset on osteosarcoma.
+<h4>Contextual Visual Reasoning Approach for Visually Impaired People</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/gifs/visual-reasoning.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 400px; height: 250px" />
+Individuals with visual impairments or limited vision often face challenges in inter-
+preting images, particularly those found on the web. This is especially true for complex
+images that require advanced reasoning for understanding. Despite these individuals
+constituting about 8% of the population, there is still a notable lack of tools provid-
+ing contextual explanations of visual data. Current solutions, such as screen mag-
+nifiers, high-contrast software, screen readers, voice recognition software, adjustable
+screen brightness, color adjustment software, Braille displays, text-to-speech software,
+AI-powered image recognition tools, and optical character recognition software, are
+available to assist visually impaired people. However, while AI-powered image recog-
+nition tools give a general overview, they lack the capability to provide reasoning-
+based contextual explanations. Our project seeks to address this shortfall by creating
+a vision-language model that generates context-specific questions and relevant inter-
+pretations of visualization. We utilized a Visual Question Generation (VQG) model
+with a BLEU-1 score of 0.758092 and a BLEU-2 score of 0.579911, alongside a Visual
+Question Answering (VQA) model with 48.05% accuracy in generating answers. By
+combining these models, we developed a web application to gather feedback from visu-
+ally impaired users. In our study involving 8 participants, all reported that the system
+significantly aided them in better understanding images
 
- 
 <div align= center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D_yxjpJbRlc?si=uv43ZCozo4MfGLQp&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Demo of the survey for Contextual Visual Reasoning Project
 
-  
+
 
 </div>
   <ul style="overflow: hidden">
@@ -179,7 +221,7 @@ Sign language is the best way of communication for the specialized people who la
   <img src="{{ site.url }}{{ site.baseurl }}/gifs/pneumonia_detection.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 350px; height: 350px" />
   <h4>Pneumonia Detection from Chest X-ray</h4>
 
- Pneumonia is one of the most common infectious
+Pneumonia is one of the most common infectious
 diseases in the lungs especially attacked infant and elderly people
 which causing cough with phlegm or pus, fever, chills, difficulty
 breathing, fill lungs with pus, and sometimes leads to deaths in
