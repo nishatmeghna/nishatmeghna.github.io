@@ -1,22 +1,22 @@
-- name: Rahad Arman Nabid
+- name: Nishat Naila Meghna
   photo-small: bazilinskyy-defence.jpg
   photo-large: bazilinskyy-cycling.jpg
-  info: Research Assistant at TU HCI Lab
-  email: rahad.arman.nabid@temple.edu
-  github: https://github.com/rahadarmannabid
-  researchgate: https://www.researchgate.net/profile/Rahad-Arman-Nabid
-  scholar: https://scholar.google.com/citations?user=gBltM-4AAAAJ&hl=en
-  linkedin: https://bd.linkedin.com/in/rahad-arman-nabid
-  orcid: https://orcid.org/0000-0002-6562-6595
-  cv: https://www.overleaf.com/read/kdpbrmvccgjg
-  number_educ: 5
-  education1: (2022 – ) Ph.D Student at Temple University 🇺🇸
-  education2: (2015 – 2021) BSc In Electrical and Electronics Engineering from BUET 🇧🇩
-  education3: (2015) HSC from Notre Dame Collage 🇧🇩
-  education4: (2013) SSC degree from Bir Shreshta Noor Mohammad School 🇧🇩
+  info: Graduate Research Assistant at VTECH Hasnine Lab
+  email: nishatmeghna@vt.edu
+  github: https://github.com/nishatmeghna
+  researchgate: https://www.researchgate.net/profile/Nishat-Naila-Meghna
+  scholar: https://scholar.google.com/citations?hl=en&authuser=2&user=Lk1Ox3EAAAAJ
+  linkedin: https://bd.linkedin.com/in/nishat-naila-meghna-89358616b
+  orcid: https://orcid.org/0009-0004-6257-9465
+  # cv: 
+  number_educ: 3
+  education1: (2023 – 2023) Ph.D Student at Howard University, USA
+  education2: (2023 –     ) Ph.D Student at Virginia Tech, USA
+  education3: (2016 - 2020) B.Sc. in Civil Engineering at Military Institute of Science and Technology, Bangladesh
+ 
   # education5: (2011) JSC degree from Bir Shreshta Noor Mohammad School 🇧🇩
-  education1short: (2022 – ) Research Lead @ TU HCI Lab 🇺🇸 
-  education2short: (2022 - ) Ph.D. Student @ Temple University 🇺🇸 
-  education3short: (2021 - 2022) Project Coordinator @ Robi Axiata Ltd 🇧🇩
-  education4short: (2021) Research Engineer @ AIMS Lab
-  education5short: (2008–2023) X-Cofounder @ KolpoBD 🇧🇩
+  education1short: (2024 – ) Graduate Research Assistant @ The Hasnine Lab 
+  education1short: (2024 – ) Graduate Teaching Assistant @ VTECH, USA
+  education2short: (2023 - ) Ph.D. Student @ VTECH, USA  
+  education3short: (2023 - 2023) Ph.D. Student @ Howard University, USA
+  education4short: (2020 - 2022) Research Assistant @ MIST, Bangladesh

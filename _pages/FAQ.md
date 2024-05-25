@@ -9,11 +9,9 @@ permalink: /FAQ/
 
 <div class="rowl1">
   <img src="{{ site.url }}{{ site.baseurl }}/images/faq/colorado-rainbo-curve.jpg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
-  <h4> I love to Travel!!! 🇧🇩 🇧🇹 🇺🇸 🇮🇳 </h4>
+  <h4> I love to Travel!!!</h4>
 
-I have a deep passion for traveling, and it has become a habit for me to explore various destinations, especially after completing a demanding semester. Usually, I take advantage of weekends to visit nearby places that can be comfortably covered within a day. However, during longer breaks, I make sure to venture far away from my usual surroundings. Throughout my undergraduate years, I had the opportunity to visit several incredible locations in Bangladesh such as Rajshahi, Khagrachori, Sylhet, Sundarban, Bandarban, Cox-Bazar, Sainmartin, Sunamgonj, and Rangamati. Additionally, I had the privilege to explore Bhutan (including Tiger Nest, Punakha, Paro, and Thimphu), India (Bhopal, Agra, Delhi, and Kolkata), as well as the United States (Colorado, New York City, Washington D.C., and Texas). 
-
-There are still many more places I aspire to visit, but I don't feel compelled to rush and check off every destination on my list. Instead, I view traveling as a means to unwind and relax after periods of intense work.
+Traveling is the biggest hobby of my life, and I love it even more now that I can share it with my husband. I especially love going to the beaches. There is something special about the sound of the waves, the sand under the feet, and the wide ocean views that really makes me happy. We dream about visiting many places together, like the beautiful city of Venice or the stunning Himalayan mountains. We look forward to many more trips. we hope to travel the world together and experience the diverse cultures and breathtaking landscapes that each new place has to offer.
 
 <!-- [Read more about my travel](/ua). -->
 
@@ -24,20 +22,19 @@ There are still many more places I aspire to visit, but I don't feel compelled t
 
 <div class="rowl1">
   <img src="{{ site.url }}{{ site.baseurl }}/images/faq/football-ndc.jpeg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
-  <h4> Sports Freak!!! </h4>
-I am an enthusiastic sports lover, and I thoroughly enjoy playing cricket, football, volleyball, ping pong, and billiards. When it comes to football, my preferred position is central midfield. I've had a couple of incidents during my school days where I actually broke a bone while playing football. On the other hand, in cricket, I excel as a fast bowler, capable of delivering some impressive swings. Additionally, I indulge in esports games such as Valorant, PUBG, PES Mobile, and FIFA. If you believe that you possess superior gaming skills, feel free to share an online link where we can compete, and that will confirm whether or not you outperform me in the gaming realm.😛 
+  <h4> I love gardening!!! </h4>
+I really enjoy gardening and have filled my garden with a bunch of different plants. Each one has its own special look and needs, making my garden a lively and colorful place. Some of the plants I have include snake plants with their tall, green leaves, silver stripes that catch the light, and African violets that bloom with beautiful purple flowers. I also grow peppers, which add a pop of color and are great for cooking, and monsteras, which have big, interesting leaves that make them stand out. There are also money plants with their trailing vines that spread greenery everywhere. Hostas fill the shady spots with their broad leaves, and spider plants hang in pots with their leaves arching over the sides, creating a nice layered look. I loveeee taking care of these plants and this is theraputic to me. It is really calming to water them, trim them and watch them to bloom. My garden is not just a hobby, it is a peaceful spot that makes me happy and proud as I watch all my plants grow and thrive.
 
   <ul style="overflow: hidden">
   </ul>
 </div>
 
 
-## Volunteering
 
 <div class="rowl1">
   <img src="{{ site.url }}{{ site.baseurl }}/images/faq/Volunteering.jpeg" class="img-responsive" style="float: left; border-radius: 5px; width: 280px;" />
-  <h4> Volunteer!!! </h4>
-I actively contribute to various charitable organizations in my village, Adampur, Barura, Cumilla, where more than 200 students are receiving education. Additionally, during my undergraduate studies, I volunteered for the charitable organization ["হাসি ফুটুক এই ঈদে"](https://www.facebook.com/events/1708399679245409) and assisted in donation-related matters for the [মানুষ মানুষের জন্য ফাউন্ডেশন](https://www.facebook.com/mmjfoundation.usa). I firmly believe that those of us who are privileged in our country, and even in the world, have a responsibility to utilize our intellectual capabilities for the betterment of humanity. I encourage everyone to contribute and consider the impoverished individuals who surround us, as this will contribute to creating a more compassionate world. 🌎 
+  <h4> I love Cooking!!! </h4>
+Cooking is one of my favorite hobbies, and it makes me really happy. I love to try making different kinds of food, from Bengali and Indian dishes to French and American recipes. For me, cooking is a way to learn about and connect with different cultures. Every dish has its own story from where it comes from, and when I cook, I feel like I am part of that story. My kitchen is like my creative space where I mix ingredients to make delicious meals. What I love most about cooking is the joy it brings, not just to me but also to my friends and family when we share a meal together. Whether it is something simple or something fancy, cooking is my way to celebrate and enjoy the flavors. 
   <ul style="overflow: hidden">
   </ul>
 </div>

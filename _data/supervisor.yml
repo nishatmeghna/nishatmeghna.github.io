@@ -1,14 +1,14 @@
-- name: Stephen MacNeil
-  photo-small: stephen-macneil.jpeg
-  photo-large: stephen-macneil.jpeg
-  info: Assistant Professor, Computer & Information Sciences, Temple University
-  email: stephen.macneil@temple.edu
-  github: https://github.com/stevemacn
-  researchgate: https://www.researchgate.net/profile/Stephen-Macneil
-  scholar: https://scholar.google.com/citations?user=leLEF3wAAAAJ&hl=en
-  linkedin: https://www.linkedin.com/in/stevemacn1
-  orcid: https://orcid.org/0000-0003-2781-6619
-  cv: http://stevemacn.github.io/resources/cv-macneil.pdf
+- name: Md Sami Hasnine
+  photo-small: image.jpg
+  photo-large: image.jpg
+  info: Assistant Professor, Charles E. Via, Jr. Department of Civil and  Environmental Engineering, Virginia Tech
+  email: hasnine@vt.edu
+  researchgate: https://www.researchgate.net/profile/Md-Sami-Hasnine
+  scholar: https://scholar.google.com/citations?user=iFkyd5AAAAAJ&hl=en&oi=ao
+  #linkedin: https://www.linkedin.com/in/stevemacn1
+  #orcid: https://orcid.org/0000-0003-2781-6619
+  #cv: http://stevemacn.github.io/resources/cv-macneil.pdf
+  #github: https://github.com/stevemacn 
   # number_educ: 5
   # education1: (2022–) Ph.D Student at Temple University 🇺🇸
   # education2: (2015–21) BSc In Electrical and Electronics Engineering from BUET 🇧🇩

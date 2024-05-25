@@ -1,24 +1,24 @@
 # Site settings
-title: Rahad Arman Nabid
-email: rahadarmannabid@temple.edu
-description: Personal webpage of Rahad Arman Nabid
+title: Nishat Naila Meghna
+email: nishatmeghna@vt.edu
+description: Personal webpage of Nishat Naila Meghna
 baseurl: ""
-url: "https://rahadarmannabid.github.io"
-affiliation: I am part of the <a href="http://stevemacn.github.io/phd/" target="_blank">democratize expert processes</a> group at TU HCI lab.
+url: "https://github.com/nishatmeghna.git.io"
+affiliation: I am an active member of the <a href="https://hasnine.com/" target="_blank">The Hasnine Lab</a> at Virginia Tech, where we focus on advancing econometric methods and applications.
 
 # Google analytics ID
 # google_analytics: G-7BE63RZMTW
 
 # Location info. (shown in footer)
 location: >
-  SERC 377<br/>
-  Philadelphia<br/>
-  19121<br/>
-  Pennsylvania, USA<br/>
+  Patton 301<br/>
+  Blacksburg<br/>
+  24060<br/>
+  Virginia, USA<br/>
 
 # Contact info. (shown in footer)
 contact: >
-    Contact me via email: <a href="rahadarmannabid@temple.edu" target="_blank">rahadarmannabid@temple.edu</a><br/>
+    Contact me via email: <a href="nishatmeghna@vt.edu" target="_blank">nishatmeghna@vt.edu</a><br/>
 
 # Pages shown in navbar
 nav_pages:
@@ -30,7 +30,7 @@ nav_pages:
   - name: team
   # - name: education
   # - name: volunteering
-  - name: FAQ
+  - name: faq
 
 # Do you want to group your publications by year? {true/false}
 group_pub_by_year: true

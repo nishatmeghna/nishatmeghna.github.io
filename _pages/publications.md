@@ -165,4 +165,4 @@ permalink: /publications/
 
 {% endfor %}
 
-\* Joint first author.
+

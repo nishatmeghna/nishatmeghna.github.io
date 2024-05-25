@@ -8,29 +8,19 @@ permalink: /research/
 # Research
 
 <div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/gifs/eg.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
-  <h4>Expert Goggles</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/gifs/bi.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
+  <h4>Bike Infrastructure</h4>
 
- This research project introduces the Learner Driven Approach, previously known as Expert Goggles, as a solution to address the challenge of interpreting complex data visualizations online. Not everyone possesses the necessary data literacy skills to effectively understand these visualizations. The approach offers just-in-time guidance to assist non-experts in interpreting web-based visualizations, aiming to transform everyday experiences into informal learning opportunities. The project explores different expert processes for automatically detecting the context and providing timely support. It also involves comparing various methods of delivering just-in-time learning opportunities to students. The Expert Goggles tool is highlighted as a tool that provides interactive guidance and multiple interactions to aid in the interpretation of data visualizations.
+ This research project aims to develop a software tool to evaluate cycling policies before implementation. The research focuses on creating an easy-to-use tool that predicts the effectiveness of cycling infrastructures in terms of environmental impact, equity, and accessibility. By integrating advanced econometric and machine-learning models, the project will enable planners and engineers to assess and optimize cycling policies effectively. This initiative is essential for promoting sustainable and equitable transportation solutions in Blacksburg and beyond.
 
- 
-<div align= center>
-<iframe width="560" height="250" src="https://www.youtube.com/embed/2cVn0b5fN64?playlist=2cVn0b5fN64&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
-Demo of Expert-Goggles (EG) prototype tools.
-
-</div>
-  <ul style="overflow: hidden">
-  </ul>
-</div>
 
 
 
 <div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/gifs/pg.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
-  <h4>PiggyBack Learning</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/gifs/uam.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
+  <h4>Urban Air Mobility</h4>
 
-For young children, educational programming is an opportunity to engage with learning concepts in fun and entertaining ways. In the US, the Federal Communications Commission enforces cable providers to reserve X time for educational materials; however, no such restrictions exist on popular platforms like YouTube or TikTok.  . We introduce the concept of “Piggyback Learning” which creates educational materials on top of existing non-educational content.  Our system XXX will extract content such as subtitles and objects of interest from videos to construct comprehension quizzes and other learning activities automatically. Primarily, PBL focuses on extracting different objects, behaviors, words, and basic maths to correlate with real-life context by creating different interactive learning materials.
+This project aims to evaluate the impact of UAM services on urban and rural transportation in the USA. The research will use a combination of revealed and stated preference surveys and AI-based models to analyze potential UAM demand and supply interactions. Focused on areas like Washington, DC, and Blacksburg, VA, the project will explore socioeconomic patterns, frequency of usage, and potential routes and vertiport locations, considering FAA and zoning regulations. A key goal is to ensure the accessibility and affordability of UAM services across all socioeconomic groups, integrating equity considerations into the planning and implementation phases. The outcomes will include advanced AI models and an open-source software system, providing valuable tools for stakeholders and policymakers in evaluating UAM-related strategies.
 
   <ul style="overflow: hidden">
   </ul>
@@ -42,29 +32,35 @@ For young children, educational programming is an opportunity to engage with lea
 
 <div class="rowl1">
 
-<h4>AI Reception</h4>
+<h4>E-commerce</h4>
 
- Artificial Intelligence enabled automated reception to perform as a human receptionist to avoid face-to-face interaction among mass people regarding their daily service in the current pandemic. Inspired by their current problem of mass congestion, our proposed AI-based Smart Reception can authenticate users and interact in Bangla language with humans by responding to university-domain-related queries, resulting in better business service and outcomes. We used OpenFace face recognition for authentication, having an accuracy of 92.92% with 1×10−5 second training time for a new image by saving the image dataset as a collection of an array file. The Interaction Recognition system consists of three modules: Automatic Speech Recognition (ASR), Interactive Agent, and Text-to-Speech (TTS) Synthesis. We used the OpenSLR- Large Bengali ASR Training Data to train the Deep Speech 2 model for ASR with a Word Error Rate (WER) of 42.15%. We tested our developed database management architecture for the Interaction Recognition system with the three-step evaluation using BERT sentence transformer (paraphrase-mpnet-base-v2) that provided satisfactory responses with 92% accuracy, increasing the receptionist performance significantly. TTS module relays on WavNet gTTS model. Our research also demonstrated that a developed AI-based system could be an adaptive solution for any domain-specific reception system responsible for systematic and efficient customer service offline and online.
-
- 
-<div align= center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kHLy8ZOJ73U?playlist=kHLy8ZOJ73U&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
-Demo of Expert-Goggles (EG) prototype tools.
-
-</div>
-  <ul style="overflow: hidden">
-  </ul>
-</div>
+ The study aims to develop a series of econometric models to estimate household-level online shopping demand. Then a recommendation system will be developed which will be improved using machine learning models so that consumers do not need to search for each item before ordering. Instead, a consumer can just review the proposed shopping list and choose the items which are required. Each household typically has repetitive online shopping demands daily, weekly, or monthly. Individual orders are generally classified as repetitive, seasonal, one-time purchases, etc. The outcome of this study is to generate a set of shopping lists daily, weekly, and monthly so that consumers can review them and order the revised items. This will immensely save consumers browsing time while shopping same products. In addition, the machine learning model will learn individuals' behavior over time and increase the accuracy of the recommendation system.
 
 
 
 
 <div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/gifs/osteosarcoma.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
-  <h4>Osteosarcoma Tumor Detection</h4>
 
-Osteosarcoma is an osseous tumor that occurs in the metaphyseal area around the knee accounts for roughly 20% of bone cancers mostly affects patients younger than 20 years. Early diagnosis of osteosarcoma cancer can pave the way for an unlimited choice of therapy opportunities. Moreover, pathological estimation of necrosis and tumor cells determines the future intensity of chemotherapy radiation to apply to patient. The biopsy confirms the diagnosis and divulges the grade of the tumor, necrotic, and non-tumor cells. Due to a lack of radiologists in third world countries like Bangladesh, it is extremely difficult to diagnose cancer in the early stage. Moreover, to identify the chemotherapy effect during the chemotherapy period, multiple radiologists are required which is quite expensive for most cancer hospitals. In this paper, a Sequential Recurrent Convolutional Neural Network (RCNN) model consisting of CNN and bidirectional Gated Recurrent Units (GRU) is proposed, which performs exceptionally well with small numbers of histopathological osteosarcoma Haematoxylin and Eosin (H & E) stained images despite having the over-fitting problem, heterogeneity, intra-class variation, inter-class similarity, crowded context, the irregular shape of the nucleus and noisy data. Performance of the is compared with that of AlexNet, ResNet50, VGG16, LeNet and SVM models with the histopathological image dataset on osteosarcoma.
+<h4>Mode Choice</h4>
+
+ This research investigates the mode choice patterns of post-secondary students in the Greater Toronto and Hamilton Area (GTHA) using data from an online survey. It identifies significant factors like travel time, distance, cost, and personal preferences that influence students' transportation decisions for two-trip and three-trip tours. Key findings include international students' preference for transit, the adaptability of students at urban institutions and part-time students between driving and transit, and age-related transit preferences among female students. Policy analysis further reveals that students prefer driving for longer distances but opt for transit as travel time increases, highlighting the importance of flexible transportation policies.
+
+
+
+
+
+<div class="rowl1">
+
+<h4>Mode and Departure Time Choice</h4>
+
+This study explores the travel behaviors of postsecondary students in the Greater Toronto and Hamilton Area (GTHA), focusing on tour mode choice, tour departure time choice, and activity-duration choice. Utilizing theories such as Kuhn-Tucker optimization, dynamic programming, and discrete choice, the research develops a closed-form modeling framework that is computationally efficient. Insights were drawn from a comprehensive survey of postsecondary students in the GTHA. Key findings include variability in activity duration choices related to different activity types, household size, number of dependent children, and students' year of study. The study also indicates that substantial changes in travel time are required to alter students' travel behaviors significantly. Additionally, changes in household size can influence individuals' preferences for departure times and activity durations. The findings suggest that enhancing intermodal transportation connectivity could encourage a shift towards more sustainable transit options among students.
+
+
+<div class="rowl1">
+  <img src="{{ site.url }}{{ site.baseurl }}/gifs/atc.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
+  <h4>Acitvity Type Choice</h4>
+
+The main focus of the research is to analyze the factors influencing the activity type choices of post-secondary students. It uses mixed and multinomial logit-based Dynamic Discrete Choice models to explore how travel distance costs, student status, and gender influence students' daily activity choices. This research uniquely focuses on the student demographic, offering critical data that can aid future urban planning and transportation policies. It particularly examines how travel distances, costs, student status, and gender impact students' decisions regarding their daily activities, highlighting the significance of institutional location on these choices. This study aims to provide insights that can guide the development of more effective transportation policies and infrastructure planning tailored to the unique travel behaviors of students.
 
  
 <div align= center>
@@ -77,27 +73,12 @@ Osteosarcoma is an osseous tumor that occurs in the metaphyseal area around the 
 </div>
 
 
-# Projects
+# Previous Projects
 <div class="rowl1">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/online_interactions.png" class="img-responsive" style="float: left; border-radius: 5px; width: 450px; height: 300px" />
-<h4>Understanding Community Interaction in Online Group POSTs: Enhancing Moderation Efficiency</h4>
+<img src="{{ site.url }}{{ site.baseurl }}/gifs/LP.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 450px; height: 300px" />
+<h4>INFLUENCE ON MECHANICAL AND DURABILITY PROPERTIES OF CONCRETE WITH LIME STONE POWDER </h4>
 
-Graph theory, a fundamental principle of network theory, provides an explanation for community interaction
-among various groups online. These online social media groups create network structures consisting of nodes
-and edges to promote community interaction, networking, support, advocacy, branding, and information
-sharing. Effective moderation is crucial to discourage inappropriate behavior such as harassment and spamming,
-promote respectful discourse and diverse perspectives, and prevent the dissemination of harmful or misleading
-rumors and false information. However, moderation of a large number of posts and comments is time-
-consuming and requires significant effort from administrators and moderators, who must understand the
-context of each post. Additionally, token-based semantic moderation techniques may mistakenly remove or
-mute users without considering the context and relationships among users. In this study, we have identified
-key features, including structural, statistical, and community features that indicate community interaction
-conflicts in online group posts. To address these behavioral patterns, we have proposed a network science
-theory called "Unbalanced Structure Theory on Directed Multi Edge Weight Graph" for moderating conflict
-and toxic behavior in online communities. We also proposed the concept of "community interaction entropy,"
-which calculates community sentiment based on interaction and modifies the node centrality of different
-communities to determine overall conflicts. Finally, we evaluated the "Unbalanced Structure Theory on
-Directed Multi Edge Weight Graph" on specific Facebook group posts.
+Concrete is the most commonly used material in the world for construction and to produce this large amount of concrete requires production of large quantities of cement which results in degradation of environment releasing harmful gases. One approach for making eco-friendly concrete is to use less cement in concrete, and for that aim, other cementitious materials can be utilized as a partial replacement for cement. This research focuses on the mechanical and durability properties of concrete having limestone powder (LSP) as a partial replacement for cement. Five different combinations are considered for this study and level of LSP replacement is 5%, 10%,15% and 20% (by weight). The result indicates that the slump value increases with increasing LSP content. At 28 days compressive strength and flexural strength are found the highest for a replacement of 10% cement with LSP. The concrete cylinders are subjected to elevated temperature (200°C and 400°C) for one hour and then cooled down to room temperature (25°C). Reduction in compressive strength with increased temperature is up to 6% at 200°C temperature and up to 11% at 400°C temperature. Chloride ion penetrability of LSP concrete is also performed using a surface resistivity meter. Penetrability of chloride ion is reducing with increased LSP content in concrete. Therefore, incorporating 10% LSP in concrete as a replacement of Portland cement will increase the mechanical and durability properties of concrete.   
 
 
 
@@ -117,48 +98,13 @@ Directed Multi Edge Weight Graph" on specific Facebook group posts.
 
 <div class="rowl1">
 
-<h4>Hit the Rabbit Game</h4>
-"Hit the Rabbit" was a project I worked on during my undergraduate studies in the Digital Logic Design (DLD) lab. The project involved constructing a game using basic integrated circuits (ICs). The objective of the game was to hit the blinking LED with a switch to earn points. If a player missed or pressed the wrong blinking light, their score would be deducted. To implement the game, we utilized various components such as a random number generator, pulse generator, one-hot decoder, NOR gates, addition blocks, buffer circuit, point subtraction and calculation block, decoder, and seven-segment displays. These components were combined to create the entire system for the game.
-<div align= center>
-<iframe width="560" height="250" src="https://www.youtube.com/embed/F_nqex_MYMY?playlist=F_nqex_MYMY&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
-Demo of Hit the Rabbit Game with Basic ICs.
+<h4>MECHANICAL AND DURABILITY PROPERTIES OFFLY ASH BLENDED CONCRETE WITH GI FIBER</h4>
 
+Over the last few decades, the global production of building materials has increased. Concrete is one of the highly used construction materials and in recent year different types of concretes are prevailing. Fly ash blended concrete with galvanized iron (GI) fiber is a type of concrete in which the cement can be partially or fully replaced by fly ash. This study investigates the influence of fly ash and GI fiber on the
+engineering properties of concrete by replacing different percentages of cement (5%, 10% and 15% by weight) with fly ash and by adding 0.5% (by volume) GI fiber into the concrete. Workability, compressive strength, splitting tensile strength, flexural strength, stress strain response under axial compression, durability at high temperature are the engineering properties that have been investigated. It was found that
+concrete up to 15% fly ash and fiber showed better result of compressive strength than concrete without fly ash and fiber. The splitting tensile strength was also found to be highest in concrete with 15% fly ash and 0.5% fiber. The flexural strength of fiber reinforced concrete with fly ash has been examined by loading concrete beams. According to the findings, increasing the percentage of fly ash and adding GI fiber
+improved flexural strength and changed the stress strain response of fly ash blended concrete with GI fiber from brittle to ductile. The durability test results showed that higher percentages of fly ash decreased the strength reduction between compressive stresses at high temperature (500°C) and room temperature (25°C).
 
-
-</div>
-  <ul style="overflow: hidden">
-  </ul>
-</div>
-
-
-
-<div class="rowl1">
-
-<h4>Contextual Visual Reasoning Approach for Visually Impaired People</h4>
-  <img src="{{ site.url }}{{ site.baseurl }}/gifs/visual-reasoning.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 400px; height: 250px" />
-Individuals with visual impairments or limited vision often face challenges in inter-
-preting images, particularly those found on the web. This is especially true for complex
-images that require advanced reasoning for understanding. Despite these individuals
-constituting about 8% of the population, there is still a notable lack of tools provid-
-ing contextual explanations of visual data. Current solutions, such as screen mag-
-nifiers, high-contrast software, screen readers, voice recognition software, adjustable
-screen brightness, color adjustment software, Braille displays, text-to-speech software,
-AI-powered image recognition tools, and optical character recognition software, are
-available to assist visually impaired people. However, while AI-powered image recog-
-nition tools give a general overview, they lack the capability to provide reasoning-
-based contextual explanations. Our project seeks to address this shortfall by creating
-a vision-language model that generates context-specific questions and relevant inter-
-pretations of visualization. We utilized a Visual Question Generation (VQG) model
-with a BLEU-1 score of 0.758092 and a BLEU-2 score of 0.579911, alongside a Visual
-Question Answering (VQA) model with 48.05% accuracy in generating answers. By
-combining these models, we developed a web application to gather feedback from visu-
-ally impaired users. In our study involving 8 participants, all reported that the system
-significantly aided them in better understanding images
-
-<div align= center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D_yxjpJbRlc?si=uv43ZCozo4MfGLQp&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Demo of the survey for Contextual Visual Reasoning Project
 
 
 
@@ -168,122 +114,7 @@ Demo of the survey for Contextual Visual Reasoning Project
 </div>
 
 
-<div class="rowl1">
-<h4>Visual Light Communication</h4>
 
-The goal of this project is to establish communication using visible red laser light to transmit data encoded as an 8-bit binary code, which will then be converted into 26 characters (alphabets) and 10 numbers. The transmitted data will be stored in a text file on the receiving end.
-
-The project involves two main components: an integrated system comprising Arduino and Python to collect data and generate text files, and a communication system utilizing visible red laser light.
-
-Communication System:
-The communication system utilizes visible red laser light as the medium for data transmission. The sender will encode the data in the form of an 8-bit binary code. The binary code is modulated onto the laser light to transmit it over a short distance to the receiver.
-
-The receiver, equipped with a light sensor, will detect the modulated laser signal. A suitable circuit connected to the sensor will then demodulate the received signal, extracting the binary data from the light pulses.
-The binary data is then processed to convert it into human-readable characters, which will represent a combination of 26 alphabets (A-Z) and 10 numbers (0-9). This conversion will enable meaningful information to be transmitted through the laser communication.
-
-Integrated Arduino and Python System:
-The communication system is integrated with an Arduino and Python system to manage data collection and text file creation.
-On the transmitting end, an Arduino board is utilized to interface with the communication hardware. The Arduino reads the data to be transmitted, converts it into the 8-bit binary code, and modulates it onto the visible red laser light.
-On the receiving end, another Arduino board is used in combination with a light sensor to detect the modulated laser light. The Arduino then demodulates the received binary data, preparing it for further processing.
-Python plays a crucial role in the data processing phase. The demodulated binary data is fed into a Python script that converts it into human-readable text. The script maps each 8-bit binary segment to a specific character, effectively translating the binary data into a sequence of 26 alphabets and 10 numbers.
-
-Finally, the Python script generates a text file containing the received information in a readable format. This text file can then be accessed and interpreted by users, allowing them to comprehend the transmitted data.
-
- 
-<div align= center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mr_1tCcl05w?playlist=Mr_1tCcl05w&autoplay=1&mute=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
-Demo of Expert-Goggles (EG) prototype tools.
-
-</div>
-  <ul style="overflow: hidden">
-  </ul>
-</div>
-
-
-<div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/gifs/bangla-sign.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 280px; height: 158px" />
-  <h4>Bangla Sign Language Detection</h4>
-
-Sign language is the best way of communication for the specialized people who lack the power of hear. Every country has a sign language of its own. Hence, it is not possible for deaf people living in Bangladesh to understand the sign language of other countries. This article represents a method of translating English (British) sign language to Bengali Sign Language using basic digital signal processing and machine learning techniques. In this study MATLAB has been used through every procedures made.
-
- 
-<div align= center>
-
-</div>
-  <ul style="overflow: hidden">
-  </ul>
-</div>
-
-
-
-<div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/gifs/pneumonia_detection.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 350px; height: 350px" />
-  <h4>Pneumonia Detection from Chest X-ray</h4>
-
-Pneumonia is one of the most common infectious
-diseases in the lungs especially attacked infant and elderly people
-which causing cough with phlegm or pus, fever, chills, difficulty
-breathing, fill lungs with pus, and sometimes leads to deaths in
-some case. In Bangladesh, pneumonia is responsible for around
-28% of the deaths of children under five years of age. Around
-50,000 children die of pneumonia every year because of not
-having proper medical doctors, especially in rural areas. But
-early detection can help to prevent this disease. Developing a
-device to detect pneumonia in a rapid and non-invasive way,
-which will be affordable for Bangladeshi people is our aim.
-Helping medical professionals to detect pneumonia early to
-facilitate the treatment of the patients is our motivation. That
-why an affordable, rapid detection model is designed. In our
-device, we used machine learning techniques using a non-invasive
-technique method by collecting x-ray images, spo2 level along
-with clinical symptoms that can help to detect pneumonia in
-absence of a doctor. Moreover, only an x-ray or only spo2 can
-not specify a pneumonia patient. But our model takes all the info
-and is gathered in machine learning model to detect the chance
-of having pneumonia with great accuracy with respect to other
-proposed models
-
- 
-<div align= center>
-
-
-
-</div>
-  <ul style="overflow: hidden">
-  </ul>
-</div>
-
-<div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/gifs/attendence_system.gif" class="img-responsive" style="float: left; border-radius: 5px; width: 300px; height: 350px" />
-  <h4>Smart Attendence System</h4>
-
-Students attendance have been considered as one of the crucial elements or issues that reflects the
-academic achievements and the performance contributed to any university compared to the
-traditional methods that impose time-consuming and inefficiency. Diverse automatic identification
-technologies have been more in vogue such as Radio Frequency Identification (RFID). RFID is a
-wireless technology, which uses to a purpose of identifying and tracking an object via radio waves
-to transfer data from an electronic tag, called RFID tag or label to send data to RFID reader. The
-project focuses on implementing an RFID based Attendance Management System (AMS) and also
-information service system for an academic domain by using RFID technology in addition to the
-programmable Logic Circuit (such as Arduino, NodeMCU), and web-based application. The
-proposed system aims to manage students’ attendance recording and provides the capabilities of
-tracking student absentee ,the proposed attendance and information system is time-effective and it
-reduces the documentation efforts as well as, it does not have any power consumption.
-The presence by using RFID is faster than the traditional way and implementation of the internet
-system of things (IoT) and data storage clouds enables the system to run in real time with accurate
-data.
-
-
-
-<div align= center>
-
-
-
-</div>
-  <ul style="overflow: hidden">
-  </ul>
-</div>
 
 
 

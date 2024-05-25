@@ -9,11 +9,11 @@ permalink: /team/
 
 <div class="row" style="text-align: center;">
   <img src="/images/team/lab_photo_2023.jpg" alt="Lab Photo 2023" style="display: inline-block; border-radius: 5px; border: 0px solid #FFF; width: 60%; max-height: 800px;">
-  <p> All the <b>Temple HCI Lab</b> memebers are smiling!!! </p>
+  <p> <b>The Hasnine Lab memebers meeting with Transportation Secretary Pete Buttigieg</b> </p>
 </div>
 
 
-Currently I am are working with professor [Enamul Hoque Price](http://www.yorku.ca/enamulh/), assistant professor and Nafis Tahmid Chowdhury, Masters Student, both are from York University, Canada on project "Expert Goggles" and "VisChatBot" along with my PhD supervisor Stephen MacNeil.
+I am are working with professor [Md Sami Hasnine](https://cee.vt.edu/people/faculty/hasnine.html). He is the Assistant Professor of Virginia Tech. Dr. Md Sami Hasnine is an Assistant Professor in the Charles E. Via, Jr. Department of Civil and Environmental Engineering at Virginia Tech. Dr. Hasnine’s research is at the intersection of transportation engineering, econometrics, data science, and psychology – how human behavior is connected to transportation decision-making. He builds mathematical models to develop smart, sustainable cities to reduce emissions and energy consumption. Dr. Hasnine published 33 peer-reviewed journal articles and 52 peer-reviewed conference papers in the last seven years. The list of his research sponsors includes the National Science Foundation (NSF), U.S. Department of Transportation University Transportation Centers (UTC) Programs, the District Department of Transportation (DDOT), the North Carolina Department of Transportation (NCDOT), the Federal Highway Administration (FHWA), Amazon, DesignSafe and Bezos Earth Fund. His area of expertise are Travel Demand Modeling (Passenger and Freight), Econometrics, Machine-learning and AI in Decision Making, Survey Design (Smartphone and Web-based), Stated Preference (SP) Survey, Experimental Design.
 
  <!-- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 

@@ -1,19 +1,19 @@
-- name: Outstanding Graduate Teaching Assistant Award
-  name_url: https://cst.temple.edu/faculty-staff/graduate-awards
-  organisation: Temple University
-  organisation_url: https://cst.temple.edu/faculty-staff/graduate-awards
-  year: 2023
+- name: Merit Scholarship for being among top five students
+#  name_url: https://cst.temple.edu/faculty-staff/graduate-awards
+  organisation: Military Institute of Science and Technology
+#  organisation_url: https://cst.temple.edu/faculty-staff/graduate-awards
+  year: 2016 - 2019
   
-- name: Winner of IC4IR 2021 1 million BDT Mujib Idea contest (Out of 1051 competitors)
-  name_url: https://www.facebook.com/IC4IR2021/
-  organisation: People's Republic of Bangladesh
-  organisation_url: https://ictd.gov.bd/
-  year: 2021
-- name: Second Runner Up, BUET EEE day IEEE Project Show 2018, Dhaka, Bangladesh.
-  name_url: http://www.ieeebd.com/
-  organisation: IEEE Bangladesh
-  organisation_url: http://www.ieeebd.com/
-  year: 2018
+#- name: Winner of IC4IR 2021 1 million BDT Mujib Idea contest (Out of 1051 competitors)
+#  name_url: https://www.facebook.com/IC4IR2021/
+#  organisation: People's Republic of Bangladesh
+#  organisation_url: https://ictd.gov.bd/
+#  year: 2021
+- name: Fourth Runner Up in TRUSS Competition, MIST Civil day 2019, Dhaka, Bangladesh.
+#  name_url: http://www.ieeebd.com/
+  organisation: Military Institute of Science and Technology
+#  organisation_url: http://www.ieeebd.com/
+  year: 2019
 
 - name: Talent-pool grade scholarship in Higher Secondary School Certificate(HSC) Examination (2015).
   name_url: http://www.educationboard.gov.bd/
@@ -21,16 +21,21 @@
   organisation_url: http://www.educationboard.gov.bd/
   year: 2015
 
-
-- name: District level champion on "National Junior Level Science Poject Showcase"
+- name: Talent-pool grade scholarship in Secondary School Certificate (SSC) Examination (2013)."
   name_url: http://www.educationboard.gov.bd/
   organisation: Ministry of Education Board, Peoples Republic of Bangladesh.
   organisation_url: http://www.educationboard.gov.bd/
   year: 2012
 
-- name: Talent-pool grade scholarship in Junior School Certificate (JSC) Examination (2011).
+- name: Talent-pool grade scholarship in Junior School Certificate (PSC) Examination (2010)."
   name_url: http://www.educationboard.gov.bd/
   organisation: Ministry of Education Board, Peoples Republic of Bangladesh.
   organisation_url: http://www.educationboard.gov.bd/
-  year: 2011
+  year: 2010
+
+#- name: Talent-pool grade scholarship in Junior School Certificate (PSC) Examination (2011).
+#  name_url: http://www.educationboard.gov.bd/
+#  organisation: Ministry of Education Board, Peoples Republic of Bangladesh.
+#  organisation_url: http://www.educationboard.gov.bd/
+#  year: 2011
 
