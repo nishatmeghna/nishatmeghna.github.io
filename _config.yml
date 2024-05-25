@@ -21,6 +21,7 @@ contact: >
     Contact me via email: <a href="nishatmeghna@vt.edu" target="_blank">nishatmeghna@vt.edu</a><br/>
 
 # Pages shown in navbar
+
 nav_pages:
   - name: about
   - name: publications
@@ -30,7 +31,7 @@ nav_pages:
   - name: team
   # - name: education
   # - name: volunteering
-  - name: faq
+  - name: Faq
 
 # Do you want to group your publications by year? {true/false}
 group_pub_by_year: true
