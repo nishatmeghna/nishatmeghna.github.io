@@ -2,7 +2,7 @@
 title: "FAQ"
 layout: gridlay
 sitemap: false
-permalink: /FAQ/
+permalink: /faq/
 ---
 
 ## FUN FACTS
